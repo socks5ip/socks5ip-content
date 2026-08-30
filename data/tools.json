@@ -1,0 +1,76 @@
+{
+ "updated": "2026-08-31",
+ "tools": [
+  {
+   "name": "IP综合检测中心",
+   "slug": "ip-check-center",
+   "url": "https://socks5ip.com.cn/ip-check-center/",
+   "desc": "4 款自研免费检测工具聚合：IP 质量、线路检测、宽带测速、业务场景模拟，一站式先测后买",
+   "features": [
+    "IP 质量检测",
+    "代理线路可用性检测",
+    "网络/宽带测速",
+    "业务场景模拟评分"
+   ]
+  },
+  {
+   "name": "IP质量检测",
+   "slug": "ip-check",
+   "url": "https://socks5ip.com.cn/ip-check/",
+   "desc": "IP 归属地查询、住宅/机房识别、代理 VPN 标记、黑名单状态，免费一键检测",
+   "features": [
+    "IP 归属地查询",
+    "住宅/机房识别",
+    "代理 VPN 标记",
+    "黑名单状态"
+   ]
+  },
+  {
+   "name": "代理线路可用性检测",
+   "slug": "proxy-check",
+   "url": "https://socks5ip.com.cn/proxy-check/",
+   "desc": "SOCKS5/HTTP 真实协议握手、延迟分级、批量检测、出口归属地查询",
+   "features": [
+    "真实协议握手",
+    "延迟分级",
+    "批量检测",
+    "出口归属地查询"
+   ]
+  },
+  {
+   "name": "网络测速",
+   "slug": "speedtest",
+   "url": "https://socks5ip.com.cn/speedtest/",
+   "desc": "下载/上传速度、延迟、抖动、丢包，一分钟测出网络真实水平",
+   "features": [
+    "下载速度",
+    "上传速度",
+    "延迟/抖动",
+    "丢包率"
+   ]
+  },
+  {
+   "name": "业务场景模拟检测",
+   "slug": "business-check",
+   "url": "https://socks5ip.com.cn/business-check/",
+   "desc": "通用/社媒/多开/采集/跨境/AI 六场景适配评分，选 IP 前先测再买",
+   "features": [
+    "六场景适配评分",
+    "运营建议",
+    "场景化对比"
+   ]
+  },
+  {
+   "name": "价格中心",
+   "slug": "jiagezhongxin",
+   "url": "https://socks5ip.com.cn/jiagezhongxin/",
+   "desc": "20+ 家代理 IP 平台价格/套餐/优惠活动一站式比价，全部支持免费测试",
+   "features": [
+    "平台比价",
+    "套餐对比",
+    "优惠活动",
+    "免费测试入口"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "updated": "2026-08-31",
+ "platforms": [
+  {
+   "name": "无双海外IP",
+   "slug": "wushuangip",
+   "url": "https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39",
+   "invite": "nBhBjh3kGW39",
+   "price": "7.5 元/月",
+   "proto": "SOCKS5 / L2TP / Shadowsocks",
+   "feature": "全球 200+ 国家住宅节点，地区覆盖全、价格低，海外业务综合首选",
+   "canonical": "https://socks5ip.com.cn/wushuangip/"
+  },
+  {
+   "name": "全球代理IP",
+   "slug": "quanqiuip",
+   "url": "https://socks5ip.6nn.net/register",
+   "invite": "无邀请码（直接注册）",
+   "price": "5 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP / Shadowsocks",
+   "feature": "海外住宅静态 IP，200+ 国家 10W 资源池，跨境电商首选",
+   "canonical": "https://socks5ip.com.cn/quanqiuip/"
+  },
+  {
+   "name": "55游海外IP",
+   "slug": "55you",
+   "url": "https://55u.net/#/login?c=adminA1",
+   "invite": "adminA1",
+   "price": "0.6 元/天起",
+   "proto": "SOCKS5 / HTTP / L2TP",
+   "feature": "真 IP 隔离 + 独立中转，外服游戏与海外业务专用",
+   "canonical": "https://socks5ip.com.cn/55you/"
+  },
+  {
+   "name": "CROWN皇冠IP",
+   "slug": "crown",
+   "url": "http://www.ipcrown.com/register?invitation=adminA1&shareid=78",
+   "invite": "adminA1",
+   "price": "18 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "100% 独享海外 IP，覆盖 180+ 国家，最高 500M 大带宽",
+   "canonical": "https://socks5ip.com.cn/crown/"
+  },
+  {
+   "name": "奔富IP",
+   "slug": "benfuip",
+   "url": "https://user.benfuip.com/main/register?aff=adminA1",
+   "invite": "adminA1",
+   "price": "2.6 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "国内独享静态 IP，IP 池 3w+，游戏多开与电商运营首选",
+   "canonical": "https://socks5ip.com.cn/benfuip/"
+  },
+  {
+   "name": "天行IP",
+   "slug": "tianxingip",
+   "url": "http://www.tianxingip.com/proxy/index/index/code/tianxingA0/p/2242.html",
+   "invite": "tianxingA0",
+   "price": "6 元/月",
+   "proto": "SOCKS5 / L2TP / PPTP",
+   "feature": "长效静态 IP + 住宅 J/N 节点，官方合作 4 折",
+   "canonical": "https://socks5ip.com.cn/tianxingip/"
+  },
+  {
+   "name": "沧海IP",
+   "slug": "canghaiip",
+   "url": "http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913",
+   "invite": "YAXI",
+   "price": "4 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "200M 宽带静态住宅 IP，八大套餐全列",
+   "canonical": "https://socks5ip.com.cn/canghaiip/"
+  },
+  {
+   "name": "优众IP",
+   "slug": "youzhongip",
+   "url": "https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC",
+   "invite": "8F6A590B1DFB4F4C99D8E775B8AC51DC",
+   "price": "7.2 元/月",
+   "proto": "L2TP + 静态 SK5",
+   "feature": "支持 API 批量提取，6 折起可定制",
+   "canonical": "https://socks5ip.com.cn/youzhongip/"
+  },
+  {
+   "name": "鲸云IP",
+   "slug": "jingyunip",
+   "url": "https://console.51tcp.com/auth/register?i=yb4y",
+   "invite": "i=yb4y",
+   "price": "6 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "定制 A/B 区高匿代理，游戏高匿名加速",
+   "canonical": "https://socks5ip.com.cn/jingyunip/"
+  },
+  {
+   "name": "JiuIP",
+   "slug": "jiuip",
+   "url": "https://jiuip.com/#/r?p=adminA0",
+   "invite": "adminA0",
+   "price": "3.4 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "低价家庭宽带 IP，真实住宅资源纯净度高",
+   "canonical": "https://socks5ip.com.cn/jiuip/"
+  },
+  {
+   "name": "光梭IP",
+   "slug": "guangsuoip",
+   "url": "http://www.guangsuoip.com/#/register?invitation=adminA8",
+   "invite": "adminA8",
+   "price": "2.24 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP / PPTP",
+   "feature": "四协议全能，全国 700+ 地区，2.24 元超低价",
+   "canonical": "https://socks5ip.com.cn/guangsuoip/"
+  },
+  {
+   "name": "光子IP",
+   "slug": "guangziip",
+   "url": "http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231",
+   "invite": "adminA1",
+   "price": "4 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "百兆独享静态 IP，七种套餐",
+   "canonical": "https://socks5ip.com.cn/guangziip/"
+  },
+  {
+   "name": "糖果IP",
+   "slug": "tangguoip",
+   "url": "http://www.tangguoip.com/register/800659",
+   "invite": "800659",
+   "price": "5 元/月",
+   "proto": "L2TP + 静态 SK5",
+   "feature": "限时 5 折，软路由/多设备场景适用",
+   "canonical": "https://socks5ip.com.cn/tangguoip/"
+  },
+  {
+   "name": "无忧IP",
+   "slug": "wuyouip",
+   "url": "https://link.wuyouip.com/6ABE1",
+   "invite": "6ABE1",
+   "price": "4.5 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "动态包机 + 独享 IP，支持灵活调配",
+   "canonical": "https://socks5ip.com.cn/wuyouip/"
+  },
+  {
+   "name": "烽迅加速器",
+   "slug": "fengxunjiasuqi",
+   "url": "https://www.fengxunip.com/user/login?p=adminA1",
+   "invite": "adminA1",
+   "price": "2.6 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "游戏专线加速 IP，视频大流量场景适配",
+   "canonical": "https://socks5ip.com.cn/fengxunjiasuqi/"
+  },
+  {
+   "name": "极驰云IP",
+   "slug": "jichiyunip",
+   "url": "https://www.jichiy.com/views/login.html#?promotionCode=D06B99413C764A8B8DB7EBFC901A5C85",
+   "invite": "D06B99413C764A8B8DB7EBFC901A5C85",
+   "price": "6 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "高速稳定双协议，官方活动 5 折",
+   "canonical": "https://socks5ip.com.cn/jichiyunip/"
+  },
+  {
+   "name": "ST加速器",
+   "slug": "stjiasuqi",
+   "url": "http://www.souta.com/?c=93904482",
+   "invite": "93904482",
+   "price": "12 元/月",
+   "proto": "SOCKS5 / L2TP / HTTP",
+   "feature": "全平台支持，游戏场景优化，IP+客户端一体化",
+   "canonical": "https://socks5ip.com.cn/stjiasuqi/"
+  },
+  {
+   "name": "酷熊IP",
+   "slug": "kuxiongip",
+   "url": "https://user.kuxiongip.com/register?promotionCode=l9avX8dG",
+   "invite": "l9avX8dG",
+   "price": "20 元/月",
+   "proto": "SOCKS5 / L2TP / PPTP",
+   "feature": "静态住宅 IP 高纯净度，不限流量",
+   "canonical": "https://socks5ip.com.cn/kuxiongip/"
+  },
+  {
+   "name": "天机IP",
+   "slug": "tianjiip",
+   "url": "http://www.tianjiip.com/#/register?invitation=adminA0&shareid=62",
+   "invite": "adminA0",
+   "price": "6 元/月",
+   "proto": "SOCKS5 / HTTP / L2TP",
+   "feature": "100M 峰值大带宽，家庭住宅 + L2TP 节点",
+   "canonical": "https://socks5ip.com.cn/tianjiip/"
+  },
+  {
+   "name": "蛟龙加速器",
+   "slug": "jiaolongjiasuqi",
+   "url": "https://jiaolongip.com/user/login?p=adminA1&code=adminA1",
+   "invite": "adminA1",
+   "price": "2.8 元/月",
+   "proto": "SOCKS5",
+   "feature": "全场景覆盖 + 手机 APP 一键换 IP",
+   "canonical": "https://socks5ip.com.cn/jiaolongjiasuqi/"
+  },
+  {
+   "name": "优享云IP",
+   "slug": "youxiangyunip",
+   "url": "http://www.yxyip.com/home/registration.php?t=adminA0",
+   "invite": "adminA0",
+   "price": "6 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "国内优质混合资源池，动态/静态多类型可选",
+   "canonical": "https://socks5ip.com.cn/youxiangyunip/"
+  },
+  {
+   "name": "百兆王",
+   "slug": "baizhaowang",
+   "url": "http://www.baizhaowang.com/?code=35ef60024d076d72",
+   "invite": "35ef60024d076d72",
+   "price": "5 元/月",
+   "proto": "SOCKS5",
+   "feature": "百兆大带宽 IP，视频与采集大流量场景",
+   "canonical": "https://socks5ip.com.cn/baizhaowang/"
+  },
+  {
+   "name": "长城IP",
+   "slug": "changchengip",
+   "url": "http://user.ccpptp.com/register?invitation_code=FS5ErERm",
+   "invite": "FS5ErERm",
+   "price": "5 元/月",
+   "proto": "SOCKS5 / L2TP",
+   "feature": "高稳定代理线路，多地区节点，适合长期使用",
+   "canonical": "https://socks5ip.com.cn/changchengip/"
+  }
+ ]
+}
