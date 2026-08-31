@@ -64,6 +64,14 @@
 | 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) |
 | 实操工具 | [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
 
+## 平台横向对比（3）
+
+| 文章 | 说明 | 原文 |
+|---|---|---|
+| [国内10大代理IP平台横向对比](articles/compare/guonei-10pingtai-duibi.md) | 价格/协议/纯净度/场景一次看清 + 按需求选择建议 | https://socks5ip.com.cn/jiagezhongxin/ |
+| [2-3元档低价IP怎么选](articles/compare/dijidang-ip-xuange.md) | 低价平台盘点 + 避坑清单 | https://socks5ip.com.cn/jiagezhongxin/ |
+| [高纯净IP怎么选](articles/compare/gaochunjing-ip-xuange.md) | 纯净度检测方法 + 高纯净平台推荐 | https://socks5ip.com.cn/ip-check-center/ |
+
 ## 内容规范
 
 - 每篇文章 YAML 头含 `canonical`，指向主站对应页面，避免重复内容影响
