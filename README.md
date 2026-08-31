@@ -55,22 +55,24 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（12）
+## 选型与实战指南（17）
 
 | 分类 | 文章 |
 |---|---|
 | 入门认知 | [代理IP入门到精通](articles/guides/dailiip-rumen.md) ｜ [怎么选IP（6维度）](articles/guides/zenme-xuan-ip.md) ｜ [为什么先测后买](articles/guides/xian-ce-hou-mai.md) |
 | 类型与协议 | [SOCKS5/L2TP/HTTP怎么选](articles/guides/xieyi-xuanze.md) ｜ [静态/动态、住宅/机房](articles/guides/ip-leixing.md) ｜ [IP纯净度](articles/guides/ip-chunjingdu.md) |
-| 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) |
-| 实操工具 | [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
+| 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) ｜ [TikTok跨境选IP](articles/guides/tiktok-kuajing-ip-xuanze.md) |
+| 工具搭配 | [指纹浏览器+IP搭配](articles/guides/zhiwenliulanqi-ip-xuanze.md) ｜ [API提取平台盘点](articles/guides/api-tiqu-pingtai-pandian.md) ｜ [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
+| 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
 
-## 平台横向对比（3）
+## 平台横向对比（4）
 
 | 文章 | 说明 | 原文 |
 |---|---|---|
 | [国内10大代理IP平台横向对比](articles/compare/guonei-10pingtai-duibi.md) | 价格/协议/纯净度/场景一次看清 + 按需求选择建议 | https://socks5ip.com.cn/jiagezhongxin/ |
 | [2-3元档低价IP怎么选](articles/compare/dijidang-ip-xuange.md) | 低价平台盘点 + 避坑清单 | https://socks5ip.com.cn/jiagezhongxin/ |
 | [高纯净IP怎么选](articles/compare/gaochunjing-ip-xuange.md) | 纯净度检测方法 + 高纯净平台推荐 | https://socks5ip.com.cn/ip-check-center/ |
+| [国外4大海外平台对比](articles/compare/guowai-4pingtai-duibi.md) | 无双/全球代理IP/55游/CROWN皇冠，跨境必看 | https://socks5ip.com.cn/guowaiip-proxy/ |
 
 ## 内容规范
 
