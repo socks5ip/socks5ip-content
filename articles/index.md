@@ -52,8 +52,11 @@
 - [怎么选代理IP？6个维度一次讲清（附决策路径）](articles/guides\zenme-xuan-ip.md)
 - [指纹浏览器怎么选IP？搭配指南与避坑清单（2026）](articles/guides\zhiwenliulanqi-ip-xuanze.md)
 
-## 对比专题（4 篇）
+## 对比专题（7 篇）
+- [百兆大带宽代理IP盘点：4个平台对比（2026）](articles/compare\baizhao-gaodaikuan-pandian.md)
 - [预算有限怎么选代理IP？2-3元档低价IP盘点（2026）](articles/compare\dijidang-ip-xuange.md)
 - [高纯净IP怎么选？纯净度检测+高纯净平台推荐（2026）](articles/compare\gaochunjing-ip-xuange.md)
 - [2026国内10大代理IP平台横向对比：价格、协议、纯净度、场景一次看清](articles/compare\guonei-10pingtai-duibi.md)
 - [国外代理IP平台怎么选？4大海外平台横向对比（2026）](articles/compare\guowai-4pingtai-duibi.md)
+- [L2TP软路由代理套餐对比：6家平台谁更划算（2026）](articles/compare\l2tp-taochan-duibi.md)
+- [游戏多开用什么IP？2026最值得入的5个平台](articles/compare\youxi-duokai-tuijian.md)

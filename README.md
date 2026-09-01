@@ -65,7 +65,7 @@
 | 工具搭配 | [指纹浏览器+IP搭配](articles/guides/zhiwenliulanqi-ip-xuanze.md) ｜ [API提取平台盘点](articles/guides/api-tiqu-pingtai-pandian.md) ｜ [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
 | 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
 
-## 平台横向对比（4）
+## 平台横向对比（7）
 
 | 文章 | 说明 | 原文 |
 |---|---|---|
@@ -73,6 +73,9 @@
 | [2-3元档低价IP怎么选](articles/compare/dijidang-ip-xuange.md) | 低价平台盘点 + 避坑清单 | https://socks5ip.com.cn/jiagezhongxin/ |
 | [高纯净IP怎么选](articles/compare/gaochunjing-ip-xuange.md) | 纯净度检测方法 + 高纯净平台推荐 | https://socks5ip.com.cn/ip-check-center/ |
 | [国外4大海外平台对比](articles/compare/guowai-4pingtai-duibi.md) | 无双/全球代理IP/55游/CROWN皇冠，跨境必看 | https://socks5ip.com.cn/guowaiip-proxy/ |
+| [L2TP软路由套餐对比](articles/compare/l2tp-taochan-duibi.md) | 奔富/天行/沧海/优众/光梭/糖果 6 家 L2TP 价格对比 | https://socks5ip.com.cn/ruanluyou-proxy/ |
+| [游戏多开Top5平台](articles/compare/youxi-duokai-tuijian.md) | 奔富/天行/沧海/糖果/光子，多开选IP攻略 | https://socks5ip.com.cn/jiagezhongxin/ |
+| [百兆大带宽平台盘点](articles/compare/baizhao-gaodaikuan-pandian.md) | 优众/沧海/光子旗舰/天机 4 家百兆档对比 | https://socks5ip.com.cn/guoneiip-proxy/ |
 
 ## 内容规范
 
