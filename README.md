@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip
+> 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
 ## 注册入口指南（23 家）
 
