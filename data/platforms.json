@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31",
+ "updated": "2026-09-03",
  "platforms": [
   {
    "name": "无双海外IP",
@@ -26,7 +26,7 @@
    "slug": "55you",
    "url": "https://55u.net/#/login?c=adminA1",
    "invite": "adminA1",
-   "price": "0.6 元/天起",
+   "price": "0.6元/天",
    "proto": "SOCKS5 / HTTP / L2TP",
    "feature": "真 IP 隔离 + 独立中转，外服游戏与海外业务专用",
    "canonical": "https://socks5ip.com.cn/55you/"
@@ -186,7 +186,7 @@
    "slug": "tianjiip",
    "url": "http://www.tianjiip.com/#/register?invitation=adminA0&shareid=62",
    "invite": "adminA0",
-   "price": "6 元/月",
+   "price": "4元/月",
    "proto": "SOCKS5 / HTTP / L2TP",
    "feature": "100M 峰值大带宽，家庭住宅 + L2TP 节点",
    "canonical": "https://socks5ip.com.cn/tianjiip/"
