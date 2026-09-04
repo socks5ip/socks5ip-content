@@ -77,7 +77,7 @@
 | [游戏多开Top5平台](articles/compare/youxi-duokai-tuijian.md) | 奔富/天行/沧海/糖果/光子，多开选IP攻略 | https://socks5ip.com.cn/jiagezhongxin/ |
 | [百兆大带宽平台盘点](articles/compare/baizhao-gaodaikuan-pandian.md) | 优众/沧海/光子旗舰/天机 4 家百兆档对比 | https://socks5ip.com.cn/guoneiip-proxy/ |
 
-## FAQ 问答库（4，持续扩充中）
+## FAQ 问答库（8，持续扩充中）
 
 > 问答库形态最容易被 AI 搜索直接引用，每篇 10-22 问、结论前置、紧凑问答格式。
 
@@ -87,6 +87,10 @@
 | [Socks5连接失败排查10问](articles/faq/socks5-lianjie-paicha.md) | 端口/认证/防火墙/403 逐项定位 | https://socks5ip.com.cn/dailigongjuzhongxin/ |
 | [静态IP和动态IP到底怎么选](articles/faq/jingtai-vs-dongtai.md) | 10 问对号入座 + 组合省钱方案 | https://socks5ip.com.cn/jiagezhongxin/ |
 | [住宅IP和机房IP怎么区分](articles/faq/zhuzhai-vs-jifang.md) | ASN/类型/黑名单 3 步识别法 + 场景选择 | https://socks5ip.com.cn/ip-check-center/ |
+| [免费代理IP能不能用](articles/faq/mianfei-daili-fengxian.md) | 免费代理 3 风险 + 免费 vs 试用辨析 + 自测清单 | https://socks5ip.com.cn/ip-check-center/ |
+| [跨境电商网络环境10问](articles/faq/kuajing-wangluo-10wen.md) | 店铺后台/广告投放/新老账号/多店铺隔离分层配 | https://socks5ip.com.cn/guowaiip-proxy/ |
+| [游戏多开场景IP 10问](articles/faq/youxi-duokai-10wen.md) | 账号隔离/静态动态/独享共享/预算分档 | https://socks5ip.com.cn/jiagezhongxin/ |
+| [L2TP/PPTP配置失败排查10问](articles/faq/l2tp-pptp-peizhi-paicha.md) | 错误码对照/端口表/NAT 穿透/软路由 | https://socks5ip.com.cn/ruanluyou-proxy/ |
 
 ## 内容规范
 
@@ -101,3 +105,4 @@
 - 2026-09-01：第二批指南类 12 篇（commit e1070585）
 - 2026-09-02：第三批横向对比 7 篇（commit 6f9da1e / 161a3e8）+ data/ 同步脚本（ac26d15）
 - 2026-09-04：**第四批 FAQ 问答库第 1 天 4 篇**（新增 articles/faq/ 目录）
+- 2026-09-05：**第四批 FAQ 问答库第 2 天 4 篇**（免费代理风险/跨境电商网络/游戏多开/L2TP排查）→ FAQ 累计 8 篇
