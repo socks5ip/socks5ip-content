@@ -55,7 +55,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（17）
+## 选型与实战指南（24）
 
 | 分类 | 文章 |
 |---|---|
@@ -64,6 +64,8 @@
 | 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) ｜ [TikTok跨境选IP](articles/guides/tiktok-kuajing-ip-xuanze.md) |
 | 工具搭配 | [指纹浏览器+IP搭配](articles/guides/zhiwenliulanqi-ip-xuanze.md) ｜ [API提取平台盘点](articles/guides/api-tiqu-pingtai-pandian.md) ｜ [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
 | 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
+| 2026 主站对齐·科普 | [公网IP和私网IP区别](articles/guides/gongwang-siwang-ip-qubie.md) ｜ [IPv4/IPv6 影响](articles/guides/ipv4-ipv6-yingxiang.md) ｜ [静态住宅IP购买指南](articles/guides/jingtaizhuzhai-ip-goumai-zhinan.md) ｜ [国产vs海外市场观察](articles/guides/guonei-haiwai-market-2026.md) |
+| 2026 主站对齐·平台选型 | [光子IP套餐选型](articles/guides/guangziip-taocan-xuanxing.md) ｜ [沧海IP组合省钱](articles/guides/canghaiip-zuhe-shengqian.md) ｜ [烽迅IP价格表2026](articles/guides/fengxunip-jiagebiao-2026.md) |
 
 ## 平台横向对比（7）
 
@@ -110,3 +112,4 @@
 - 2026-09-02：第三批横向对比 7 篇（commit 6f9da1e / 161a3e8）+ data/ 同步脚本（ac26d15）
 - 2026-09-04：**第四批 FAQ 问答库第 1 天 4 篇**（新增 articles/faq/ 目录）
 - 2026-09-05：**第四批 FAQ ②③ 8 篇收官**（免费代理/跨境/游戏多开/L2TP排查 + IP被标记/新手全流程/TikTok社媒/数据采集）→ FAQ 12 篇完成，内容仓累计 65 篇
+- 2026-09-05：**第五批 主站对齐 8 篇**（公网私网/IPv4v6/静态住宅购买指南/光子套餐选型/沧海组合省钱/烽迅价格表/烽迅注册省心版/国产vs海外市场）→ 内容仓累计 **73 篇**
