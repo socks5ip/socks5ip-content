@@ -81,3 +81,8 @@ canonical: https://socks5ip.com.cn/ip-check-center/
 
 **Q：想自己先验一批 IP 再买，有什么办法？**
 [IP综合检测中心](https://socks5ip.com.cn/ip-check-center/) 提供归属/类型/黑名单/线路/测速一站式检测，把平台给的测试 IP 先测一遍再下单。
+
+## 想直接试试？官方入口（免费测试）
+
+- 住宅资源：沧海 IP 三区 ISP 家宽（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
+- 机房低价跑量：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)
