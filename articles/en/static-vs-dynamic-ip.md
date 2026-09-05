@@ -43,3 +43,10 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 | Budget split | Static core + dynamic batch | Both stability and cost |
 
 Start with the smallest cycle, test against real tasks for a few days, then commit to a longer plan.
+
+## Where to start (official links, free tests available)
+
+- Compare static/dynamic plans across 20+ providers: [price center](https://socks5ip.com.cn/jiagezhongxin/)
+- [沧海IP / Canghai](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913) (invite `YAXI`) — static residential zone at ¥8/month, dynamic zones from ¥4/month
+
+Verify whether your exit actually stays static (check it several times) before committing to a long plan.
