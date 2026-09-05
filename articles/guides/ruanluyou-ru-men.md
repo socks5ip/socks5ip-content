@@ -41,3 +41,7 @@ canonical: https://socks5ip.com.cn/ruanluyou-proxy/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/ruanluyou-proxy/
+## 想直接试试？官方入口（免费测试）
+
+- L2TP 软路由套餐：烽迅 IP（邀请码 `adminA1`）[注册入口](https://www.fengxunip.com/user/login?p=adminA1)，L2TP 6 元/月起
+- 软路由方案汇总：[ruanluyou-proxy](https://socks5ip.com.cn/ruanluyou-proxy/)
