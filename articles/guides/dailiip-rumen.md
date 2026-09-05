@@ -51,3 +51,7 @@ canonical: https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/
+## 想直接试试？官方入口（免费测试）
+
+- 新手起步：光子 IP（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)，4 元/月；奔富 IP（`adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，2.6 元/月
+- 完整入门资料见主站[代理IP新手导航](https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/)
