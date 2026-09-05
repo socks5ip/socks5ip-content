@@ -42,3 +42,7 @@ canonical: https://socks5ip.com.cn/guoneiip-proxy/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/guoneiip-proxy/
+## 想直接试试？官方入口（免费测试）
+
+- 采集跑量：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，动态档 2.6 元/月起步
+- 采集套餐对比：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)（按并发与可用率选）
