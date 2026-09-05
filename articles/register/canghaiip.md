@@ -3,7 +3,7 @@ title: "沧海IP官方注册入口（邀请码 YAXI）"
 description: "沧海IP官方注册教程：官方直链+邀请码，4 元/月起，200M 宽带静态住宅 IP，八大套餐全列，注册支持免费测试先测后买。"
 date: 2026-08-31
 tags: [代理IP, 沧海IP, 官方注册]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/guoneiip/canghaiip/canghaiip-nage-qu-huansuan-badaqu-zuhe-shengqian/
 ---
 # 沧海IP官方注册入口
 
@@ -48,3 +48,6 @@ https://socks5ip.com.cn/canghaiip/ 页面提供了价格表、使用教程等完
 ---
 
 > 内容由 全网低价IP 整理，原文：https://socks5ip.com.cn/canghaiip/
+---
+
+> 全网低价IP整理：注册后先领**免费测试**再付费（先测后买）。更多平台套餐对比见主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
