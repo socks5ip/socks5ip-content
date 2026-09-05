@@ -52,3 +52,8 @@ canonical: https://socks5ip.com.cn/zuixinzixun/jishuzixun/jingtaizhuzhaiip-shi-s
 
 **Q：静态住宅贵吗？**
 通常高于机房 IP（"固定+住宅"资源稀缺），具体各家差异大，建议比价后先测后买。
+
+## 想直接试试？官方入口（免费测试）
+
+- 静态住宅资源：沧海 IP 三区/一区（ISP 住宅，邀请码 `YAXI`）：[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
+- 全网静态住宅比价：主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)对比 20+ 平台，先测后买
