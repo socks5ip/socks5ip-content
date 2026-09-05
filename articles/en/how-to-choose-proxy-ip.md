@@ -59,3 +59,11 @@ Every reputable provider offers a free test or trial period. Use it. If a seller
 - [ ] Protocol supported by my tools
 - [ ] Free test passed (connectivity, location, purity, stability)
 - [ ] Support responds when I test them
+
+## Where to start (official links, free tests available)
+
+- Compare 20+ providers and prices on the main site: [price center](https://socks5ip.com.cn/jiagezhongxin/)
+- [光子IP / Guangzi](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) (invite `adminA1`) — SOCKS5/L2TP/HTTP, from ¥4/month, good entry point
+- [奔富IP / Benfu](https://user.benfuip.com/main/register?aff=adminA1) (invite `adminA1`) — multi-protocol plans from ¥2.6/month
+
+Test any provider with their free quota before paying — every link above is an official registration page.
