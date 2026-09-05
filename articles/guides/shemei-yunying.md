@@ -38,3 +38,7 @@ canonical: https://socks5ip.com.cn/guoneiip-proxy/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/guoneiip-proxy/
+## 想直接试试？官方入口（免费测试）
+
+- 海外社媒运营：无双 IP（邀请码 `nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)
+- 按天试海外节点：55游（邀请码 `adminA1`）[注册入口](https://55u.net/#/login?c=adminA1)，0.6 元/天起
