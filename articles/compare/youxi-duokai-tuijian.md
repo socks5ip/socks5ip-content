@@ -39,3 +39,7 @@ A：理想是每窗口一条（10 条）；预算有限可先 5 条按比例分�
 
 **Q：游戏多开会被平台检测吗？**
 A：用纯净度高、未被标记的 IP，配合指纹隔离，可大幅降低风险。选择支持免费测试的平台先验证线路纯净度。
+## 想直接试试？官方入口（免费测试）
+
+- 多开 Top 推荐：光子 IP A 旗舰（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
+- 沧海 IP 一区（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)；完整比价见[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
