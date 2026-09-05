@@ -41,3 +41,7 @@ IP 纯净度就是"平台眼里你的 IP 像不像真实用户"，由四层决�
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/ip-check-center/
+## 想直接试试？官方入口（免费测试）
+
+- 纯净度自查：主站[IP 质量检测](https://socks5ip.com.cn/ip-check/)（住宅机房识别+黑名单）
+- 纯净资源：沧海 IP（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
