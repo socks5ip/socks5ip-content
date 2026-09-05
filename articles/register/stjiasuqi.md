@@ -3,7 +3,7 @@ title: "ST加速器官方注册入口（邀请码 93904482）"
 description: "ST加速器官方注册教程：官方直链+邀请码，12 元/月起，全平台支持，游戏场景优化，IP+客户端一体化，注册支持免费测试先测后买。"
 date: 2026-08-31
 tags: [代理IP, ST加速器, 官方注册]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/guoneiip/stjiasuqi/stjiasuqi-jiagebiao-2026/
 ---
 # ST加速器官方注册入口
 
@@ -48,3 +48,6 @@ https://socks5ip.com.cn/stjiasuqi/ 页面提供了价格表、使用教程等完
 ---
 
 > 内容由 全网低价IP 整理，原文：https://socks5ip.com.cn/stjiasuqi/
+---
+
+> 全网低价IP整理：注册后先领**免费测试**再付费（先测后买）。更多平台套餐对比见主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
