@@ -48,3 +48,8 @@ canonical: https://socks5ip.com.cn/zuixinzixun/jishuzixun/ipv4-ipv6-shi-shenme-d
 
 **Q：代理 IP 场景要不要关 IPv6？**
 看你的工具是否支持 v6 走代理。不支持就关掉系统 IPv6 或做分流，避免"换了个寂寞"。
+
+## 相关工具
+
+- 查当前出口协议与归属（含 IPv6 泄漏自查）：[IP 质量检测](https://socks5ip.com.cn/ip-check/)
+- 代理场景要干净的 IPv4 出口：各平台方案见[价格中心](https://socks5ip.com.cn/jiagezhongxin/)（先测后买）
