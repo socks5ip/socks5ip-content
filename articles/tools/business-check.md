@@ -35,3 +35,7 @@ canonical: 见正文
 ---
 
 > 工具归属：全网低价IP（socks5ip.com.cn），更多工具见 https://socks5ip.com.cn/ip-check-center/
+## 直达入口
+
+- 主站[业务场景检测](https://socks5ip.com.cn/business-check/)：六场景适配评分
+- 测完按结果配线路：各平台方案见[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
