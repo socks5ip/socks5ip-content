@@ -39,3 +39,7 @@ A：直播推流、大文件上传、批量数据采集、多开并发等带宽�
 
 **Q：百兆和普通套餐差多少钱？**
 A：普通 1M 档 2-4 元/月，百兆档 8-15 元/月，差价按需选档即可。
+## 想直接试试？官方入口（免费测试）
+
+- 百兆档比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)（20+ 平台套餐对比）
+- 大带宽需求：沧海 IP 一区/六区（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
