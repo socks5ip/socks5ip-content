@@ -91,3 +91,8 @@ SOCKS5 通用性最好（软件、游戏、采集都能用）；L2TP 适合软�
 
 **Q22：哪里能一站式对比各平台？**
 [价格中心](https://socks5ip.com.cn/jiagezhongxin/) 汇总 20+ 平台价格与套餐，[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/) 有各平台注册入口，先对比再测再买。
+
+## 想直接试试？官方入口（免费测试）
+
+- 多协议入门：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，2.6 元/月起
+- 低价走量：光子 IP（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)，4 元/月起
