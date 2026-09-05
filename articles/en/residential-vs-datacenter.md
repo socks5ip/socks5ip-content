@@ -49,3 +49,11 @@ Blacklists decay over months, but you can't wait for business. Replace the exit 
 
 **How do I verify what I'm actually buying?**
 Test first, always. Paste the trial line into an IP checker and confirm the residential/datacenter label and blacklist status before paying.
+
+## Where to start (official links, free tests available)
+
+- Run residential/datacenter + blacklist checks: [IP quality check](https://socks5ip.com.cn/ip-check/)
+- [沧海IP / Canghai](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913) (invite `YAXI`) — ISP residential zones, from ¥4/month
+- [光子IP / Guangzi](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) (invite `adminA1`) — native "clean" IP plan from ¥10/month
+
+Verify the label yourself before paying — every seller offers a free test.
