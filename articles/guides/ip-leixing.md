@@ -43,3 +43,8 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/jiagezhongxin/
+## 想直接试试？官方入口（免费测试）
+
+- 住宅资源：沧海 IP 三区 ISP 家宽（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
+- 低价走量：光子 IP（`adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
+- 类型识别自查：主站[IP 质量检测](https://socks5ip.com.cn/ip-check/)
