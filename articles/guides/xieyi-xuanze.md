@@ -43,3 +43,7 @@ canonical: https://socks5ip.com.cn/dailigongjuzhongxin/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/dailigongjuzhongxin/
+## 想直接试试？官方入口（免费测试）
+
+- 协议齐全（SOCKS5/L2TP/HTTP）：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)
+- SOCKS5+L2TP 专线：烽迅 IP（`adminA1`）[注册入口](https://www.fengxunip.com/user/login?p=adminA1)
