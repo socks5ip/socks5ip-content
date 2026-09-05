@@ -50,3 +50,10 @@ For account-sensitive work, residential + zero hits is the bar. For scraping, da
 ## Where to test
 
 The main site hosts a proxy line checker (canonical link above) that runs real handshakes, grades latency and batch-checks lines — paste your trial lines there before paying, and re-check periodically because IP pools change.
+
+## Where to run these tests (free tools)
+
+- Batch proxy line checker (real handshake + latency grading): [proxy-check](https://socks5ip.com.cn/proxy-check/)
+- Get lines worth testing: [烽迅IP / Fengxun](https://www.fengxunip.com/user/login?p=adminA1) (invite `adminA1`) — SOCKS5 from ¥2.6/month with free test
+
+Paste trial lines into the checker before you pay, and re-check pools periodically.
