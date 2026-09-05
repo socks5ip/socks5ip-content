@@ -42,3 +42,11 @@ Specific examples from mainstream Chinese providers (2026, promotional prices): 
 2. **Start small**: buy the smallest cycle, run real tasks, then extend for the discount.
 3. **Compare**: 20+ providers' current plans are indexed at the price center (canonical link above) — most quote "X CNY/month onwards" and prices shift with promos, so confirm on the official console before ordering.
 4. **Region matters more than price** for cross-border work — a wrong-region exit is worthless no matter how cheap.
+
+## Where to check current prices (official links)
+
+- Live price index of 20+ providers: [price center](https://socks5ip.com.cn/jiagezhongxin/)
+- [奔富IP / Benfu](https://user.benfuip.com/main/register?aff=adminA1) (invite `adminA1`) — from ¥2.6/month
+- [光子IP / Guangzi](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) (invite `adminA1`) — plans from ¥4/month
+
+Prices shift with promotions — always confirm the current number on the official console before ordering.
