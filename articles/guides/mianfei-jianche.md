@@ -53,3 +53,7 @@ canonical: https://socks5ip.com.cn/ip-check-center/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/ip-check-center/
+## 想直接试试？官方入口（免费测试）
+
+- 免费体检直接上主站[IP 检测工具](https://socks5ip.com.cn/ip-check-center/)（质量/线路/测速一站式）
+- 体检达标再买：光子 IP（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
