@@ -51,3 +51,8 @@ canonical: https://socks5ip.com.cn/guoneiip/fengxunjiasuqi/fengxunip-jiagebiao-2
 
 **Q：10M 档够游戏多开吗？**
 多数游戏多开 10M（6 元/月）够用；开数多或跑视频再加档，别盲目上大带宽。
+
+## 想直接试试？烽迅IP官方入口（免费测试）
+
+- 官方注册（邀请码 `adminA1`，链接已内置）：[烽迅IP注册入口](https://www.fengxunip.com/user/login?p=adminA1)
+- 新手路径：1M 特惠 2.6 元/月先验线 → 游戏多开升 10M 6 元/月。完整价格与教程见主站[烽迅IP价格表 2026](https://socks5ip.com.cn/guoneiip/fengxunjiasuqi/fengxunip-jiagebiao-2026/)
