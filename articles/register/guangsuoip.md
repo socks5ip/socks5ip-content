@@ -3,7 +3,7 @@ title: "光梭IP官方注册入口（邀请码 adminA8）"
 description: "光梭IP官方注册教程：官方直链+邀请码，2.24 元/月起，四协议全能，全国 700+ 地区，2.24 元超低价，注册支持免费测试先测后买。"
 date: 2026-08-31
 tags: [代理IP, 光梭IP, 官方注册]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/guoneiip/guangsuoip/guangsuoip-zhuce-rukou-yaoqingma/
 ---
 # 光梭IP官方注册入口
 
@@ -49,3 +49,6 @@ https://socks5ip.com.cn/guangsuoip/ 页面提供了价格表、使用教程等�
 ---
 
 > 内容由 全网低价IP 整理，原文：https://socks5ip.com.cn/guangsuoip/
+---
+
+> 全网低价IP整理：注册后先领**免费测试**再付费（先测后买）。更多平台套餐对比见主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
