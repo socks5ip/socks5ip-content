@@ -54,3 +54,8 @@ canonical: https://socks5ip.com.cn/guowaiip-proxy/
 
 **Q：TikTok 直播和上传对带宽的要求大概多少？**
 1080P 直播上行建议稳定 5Mbps 以上且低丢包；批量上传素材按文件大小与频率评估。选套餐时带宽别只看"最大"标注，实测实际链路的稳定上行更靠谱。各平台带宽档可参考[价格中心](https://socks5ip.com.cn/jiagezhongxin/)对比。
+
+## 想直接试试？官方入口（免费测试）
+
+- 海外社媒运营：无双 IP（邀请码 `nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)，海外线路 7.5 元/月起
+- 或按天试海外节点：55游（邀请码 `adminA1`）[注册入口](https://55u.net/#/login?c=adminA1)，0.6 元/天起
