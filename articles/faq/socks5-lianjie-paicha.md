@@ -70,3 +70,7 @@ Windows 防火墙、杀毒软件可能拦截代理客户端出站。把代理软
 
 **Q：哪类工具对 Socks5 支持最稳？**
 主流的代理客户端、游戏加速类软件和采集工具都原生支持 SOCKS5。相关工具可在[代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)查阅，先测后买。
+
+## 想直接试试？官方入口（免费测试）
+
+- SOCKS5 + L2TP 都有：烽迅 IP（邀请码 `adminA1`）[注册入口](https://www.fengxunip.com/user/login?p=adminA1)，SK5 低至 2.6 元/月
