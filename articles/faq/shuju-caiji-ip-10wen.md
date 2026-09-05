@@ -61,3 +61,8 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 
 **Q：采集代码里 SOCKS5 和 HTTP 代理选哪个？**
 多数采集框架两者都支持：requests/scrapy 配 HTTP 简单，SOCKS5 更通用（支持 UDP 等）。看你的框架文档选，配完先小批量验证再放量。
+
+## 想直接试试？官方入口（免费测试）
+
+- 采集跑量：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，动态档 2.6 元/月起步
+- 采集套餐对比：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)（按并发与可用率选，先测后买）
