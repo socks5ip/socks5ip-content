@@ -47,3 +47,7 @@ canonical: https://socks5ip.com.cn/guoneiip-proxy/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/guoneiip-proxy/
+## 想直接试试？官方入口（免费测试）
+
+- 多开主力：光子 IP A 旗舰 100M 独享（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)，8 元/月
+- 或沧海 IP 一区（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
