@@ -44,3 +44,10 @@ Three origins: publicly harvested bare nodes (anyone can connect, they die anyti
 ## If your IP already got flagged after a free proxy
 
 Stop using that node, switch to a clean commercial line, and don't touch sensitive accounts from the dirty exit again. Blacklists expire over months, but business can't wait — replace the exit rather than waiting it out. Budget low? Legit Chinese providers start around 2–6 CNY/month with free tests and real support — cheaper than the risk.
+
+## If you want a legit low-cost option instead
+
+- Self-check any proxy's risk first: [IP check center](https://socks5ip.com.cn/ip-check-center/)
+- [光子IP / Guangzi](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) (invite `adminA1`) — entry plan from ¥4/month with free test; real support, commercial-grade lines
+
+A few yuan a month beats free proxies that cost you accounts and data.
