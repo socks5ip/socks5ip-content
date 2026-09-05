@@ -3,7 +3,7 @@ title: "极驰云IP官方注册入口（邀请码 见正文）"
 description: "极驰云IP官方注册教程：官方直链+邀请码，6 元/月起，高速稳定双协议，官方活动 5 折，注册支持免费测试先测后买。"
 date: 2026-08-31
 tags: [代理IP, 极驰云IP, 官方注册]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/guoneiip/jichiyunip/jichiyunip-jiagebiao-2026/
 ---
 # 极驰云IP官方注册入口
 
@@ -48,3 +48,6 @@ https://socks5ip.com.cn/jichiyunip/ 页面提供了价格表、使用教程等�
 ---
 
 > 内容由 全网低价IP 整理，原文：https://socks5ip.com.cn/jichiyunip/
+---
+
+> 全网低价IP整理：注册后先领**免费测试**再付费（先测后买）。更多平台套餐对比见主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
