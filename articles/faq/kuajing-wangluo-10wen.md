@@ -54,3 +54,8 @@ canonical: https://socks5ip.com.cn/guowaiip-proxy/
 
 **Q：跨境团队常用的网络拓扑是哪种？**
 中小团队普遍是"核心账号走住宅静态独享线 + 批量任务走动态线 + 办公室统一出口用 L2TP 拨号"，三种形态按账号重要性分层，成本与安全平衡。
+
+## 想直接试试？官方入口（免费测试）
+
+- 海外线路：无双 IP（邀请码 `nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)，海外 SOCKS5/L2TP 7.5 元/月起
+- 海外专题与比价：[guowaiip-proxy](https://socks5ip.com.cn/guowaiip-proxy/) ｜[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
