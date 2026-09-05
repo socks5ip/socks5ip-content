@@ -54,3 +54,7 @@ canonical: https://socks5ip.com.cn/ip-check-center/
 
 **Q：手上有多条线，怎么批量看哪些脏了？**
 把线路逐一填入[IP 质量检测](https://socks5ip.com.cn/ip-check/)查归属与黑名单，命中高的标红优先换；换完复查一遍再投入使用。脏线不清理，等于给账号埋雷。
+
+## 想直接试试？官方入口（免费测试）
+
+- 怕共享池脏：沧海 IP 三区 ISP 住宅（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)，纯净度优先
