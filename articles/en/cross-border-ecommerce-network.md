@@ -39,3 +39,11 @@ canonical: https://socks5ip.com.cn/guowaiip-proxy/
 ## Verify before you log in
 
 Check three things per line: **region matches** (target country, and residential not datacenter), **purity is clean** (near-zero blacklist hits), **stability holds** (dozens of connection tests with low failure). Pass all three, then log in — test first, buy after.
+
+## Where to get overseas lines (official links, free tests available)
+
+- Overseas IP topic hub: [overseas IP topic hub](https://socks5ip.com.cn/guowaiip-proxy/)
+- [无双海外IP / Wushuang](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39) (invite `nBhBjh3kGW39`) — overseas SOCKS5/L2TP/SS, from ¥7.5/month
+- [55游海外IP](https://55u.net/#/login?c=adminA1) (invite `adminA1`) — pay-per-day overseas lines from ¥0.6/day
+
+Match the exit region to your target market, test the line, then log into store backends.
