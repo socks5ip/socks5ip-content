@@ -57,3 +57,8 @@ canonical: https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/
 
 **Q12：还有哪些新手必踩的坑？**
 ①跳过测试直接年付 ②贪低价买共享池（连坐风险）③同一批出口又做采集又登账号 ④出问题才想起找客服（买前就该确认客服在不在）。把[新手入门资料](https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/)过一遍再下单，能少交很多学费。
+
+## 想直接试试？官方入口（免费测试）
+
+- 新手起步：光子 IP（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)，B 特惠 4 元/月；奔富 IP（`adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，2.6 元/月
+- 按四步走完再下单：先测归属、纯净度、稳定性，达标再付费
