@@ -50,3 +50,8 @@ canonical: https://socks5ip.com.cn/guoneiip/canghaiip/canghaiip-nage-qu-huansuan
 
 **Q：可以混合买不同区吗？**
 可以。沧海后台支持同时持有多个区线路，按任务分开用正是组合省钱的前提。
+
+## 想直接试试？沧海IP官方入口（免费测试）
+
+- 官方注册（邀请码 `YAXI`，已内置）：[沧海IP注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
+- 组合购买：后台支持多区并存，按任务分线使用（一区主力 + 二区备用）。其他平台对比看[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
