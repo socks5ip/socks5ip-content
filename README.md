@@ -55,7 +55,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（24）
+## 选型与实战指南（32）
 
 | 分类 | 文章 |
 |---|---|
@@ -66,6 +66,8 @@
 | 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
 | 2026 主站对齐·科普 | [公网IP和私网IP区别](articles/guides/gongwang-siwang-ip-qubie.md) ｜ [IPv4/IPv6 影响](articles/guides/ipv4-ipv6-yingxiang.md) ｜ [静态住宅IP购买指南](articles/guides/jingtaizhuzhai-ip-goumai-zhinan.md) ｜ [国产vs海外市场观察](articles/guides/guonei-haiwai-market-2026.md) |
 | 2026 主站对齐·平台选型 | [光子IP套餐选型](articles/guides/guangziip-taocan-xuanxing.md) ｜ [沧海IP组合省钱](articles/guides/canghaiip-zuhe-shengqian.md) ｜ [烽迅IP价格表2026](articles/guides/fengxunip-jiagebiao-2026.md) |
+| 决策与成本（2026） | [月预算20/50/100能买什么](articles/guides/yusuan-20-50-100-nengmai-shenme.md) ｜ [短效长效成本精算](articles/guides/duanxiao-changxiao-chengben.md) ｜ [按场景决策树](articles/guides/anjingxuan-ip-jueceshu.md) ｜ [价格行情综述](articles/guides/2026-jiage-hangqing-zongshu.md) |
+|  | [一个人要几个IP](articles/guides/yigeren-yao-jige-ip.md) ｜ [六种套路避坑](articles/guides/changjian-pianju-bikeng.md) ｜ [高纯净度IP成本](articles/guides/gaochunjing-ip-chengben.md) ｜ [免费vs付费对比](articles/guides/mianfei-vs-fufei-duibi.md) |
 
 ## 平台横向对比（7）
 
@@ -131,3 +133,4 @@
 - 2026-09-05：**第四批 FAQ ②③ 8 篇收官**（免费代理/跨境/游戏多开/L2TP排查 + IP被标记/新手全流程/TikTok社媒/数据采集）→ FAQ 12 篇完成，内容仓累计 65 篇
 - 2026-09-05：**第五批 主站对齐 8 篇**（公网私网/IPv4v6/静态住宅购买指南/光子套餐选型/沧海组合省钱/烽迅价格表/烽迅注册省心版/国产vs海外市场）→ 内容仓累计 **73 篇**
 - 2026-09-05：**第六批 英文 EN 10 篇**（新增 articles/en/ 子目录）→ 内容仓累计 **83 篇**
+- 2026-09-06：**第七批 决策算账 8 篇**（预算/成本精算/决策树/行情/配置/避坑/纯净度成本/免费vs付费）→ 内容仓累计 **91 篇**
