@@ -60,3 +60,8 @@ iOS 只支持 **L2TP over IPsec**（系统里选 L2TP 类型后必须填 IPsec �
 
 **Q：服务商给的 L2TP 参数去哪里核对？**
 参数（服务器地址、账号、预共享密钥）一般在平台后台"连接信息/使用教程"里，对照逐项填写。若服务商主推[软路由/系统拨号方案](https://socks5ip.com.cn/ruanluyou-proxy/)，按教程走最省事。
+
+## 想直接试试？官方入口（免费测试）
+
+- L2TP 软路由套餐：烽迅 IP（邀请码 `adminA1`）[注册入口](https://www.fengxunip.com/user/login?p=adminA1)，L2TP 6 元/月起
+- 软路由方案汇总：[ruanluyou-proxy](https://socks5ip.com.cn/ruanluyou-proxy/)
