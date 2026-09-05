@@ -67,3 +67,11 @@ canonical: https://socks5ip.com.cn/goumaixiazaizhongxin/
 ## Two bonus rules
 
 **Start minimal**: smallest cycle first; verify against real tasks for a few days, then extend. **Compare before buying**: a price index of 20+ Chinese providers is on the main site (canonical link above) — most start at 2–6 CNY/month with free tests.
+
+## Where to start (official links, free tests available)
+
+- Provider directory & purchase center: [goumaixiazaizhongxin](https://socks5ip.com.cn/goumaixiazaizhongxin/)
+- [奔富IP / Benfu](https://user.benfuip.com/main/register?aff=adminA1) (invite `adminA1`) — multi-protocol from ¥2.6/month
+- [光子IP / Guangzi](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) (invite `adminA1`) — from ¥4/month
+
+Ask your 20 questions first, then use the free test to verify — then buy.
