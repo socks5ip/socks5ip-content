@@ -46,3 +46,8 @@ A 主打带宽与多开（100M 独享）；C 主打纯净度（原生 IP），�
 
 **Q：拿不准先买哪个？**
 先用 B 特惠（4 元/月）跑通测试，主力业务再按 A/C/E 选档。所有档位支持免费测试、先测后买。
+
+## 想直接试试？光子IP官方入口（免费测试）
+
+- 官方注册（邀请码 `adminA1`，已内置）：[光子IP注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
+- 拿不准选哪档：先用 B 特惠（4 元/月）跑通测试；主力业务按 A/C/E 选。全网比价可看[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
