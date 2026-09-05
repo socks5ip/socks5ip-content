@@ -44,3 +44,7 @@ canonical: https://socks5ip.com.cn/guowaiip-proxy/
 ---
 
 > 内容由 全网低价IP（socks5ip.com.cn）整理，原文/更多资料：https://socks5ip.com.cn/guowaiip-proxy/
+## 想直接试试？官方入口（免费测试）
+
+- 海外线路：无双 IP（邀请码 `nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)，海外 SOCKS5/L2TP 7.5 元/月起
+- 海外专题与比价：[guowaiip-proxy](https://socks5ip.com.cn/guowaiip-proxy/)｜[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
