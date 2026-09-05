@@ -52,3 +52,8 @@ canonical: https://socks5ip.com.cn/zuixinzixun/jishuzixun/gongwang-ip-siwang-ip-
 
 **Q：公网 IP 安全吗？**
 公网 IP 会把设备暴露在互联网，需要防火墙与补丁；私网天然更"低调"，但正常使用都安全，关键在设备自身防护。
+
+## 相关工具
+
+- 查你的公网出口归属地：[IP 质量检测](https://socks5ip.com.cn/ip-check/)
+- 需要多地区/纯净出口做业务？各平台方案见[价格中心](https://socks5ip.com.cn/jiagezhongxin/)（先测后买）
