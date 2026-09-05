@@ -64,3 +64,7 @@ canonical: https://socks5ip.com.cn/ip-check-center/
 
 **Q12：到手怎么验？**
 下单前用[IP 质量检测](https://socks5ip.com.cn/ip-check/)看归属与黑名单，再实测可用率与延迟，达标再正式用。先测后买是唯一靠谱的流程。
+
+## 想直接试试？官方入口（免费测试）
+
+- 怕免费代理，预算又低：光子 IP B 特惠档（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)，4 元/月，先测后买
