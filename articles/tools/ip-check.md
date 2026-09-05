@@ -36,3 +36,7 @@ canonical: 见正文
 ---
 
 > 工具归属：全网低价IP（socks5ip.com.cn），更多工具见 https://socks5ip.com.cn/ip-check-center/
+## 直达入口
+
+- 主站[IP质量检测](https://socks5ip.com.cn/ip-check/)：归属地/住宅机房识别/黑名单
+- 想换更干净的住宅资源：沧海 IP（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
