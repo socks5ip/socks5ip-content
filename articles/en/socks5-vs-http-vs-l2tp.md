@@ -42,3 +42,10 @@ canonical: https://socks5ip.com.cn/dailigongjuzhongxin/
 1. **Wrong protocol type selected in software** — SOCKS5 lines filled in as HTTP (or vice versa) cause confusing errors; set the type explicitly.
 2. **Expecting one protocol to do everything** — each layer has its job; match the protocol to the tool, not the other way around.
 3. **Treating protocol as the whole story** — protocol only decides *how* you connect. Line quality (uptime, latency, purity) decides *whether the experience is good*. Test both.
+
+## Where to try these protocols (official links, free tests available)
+
+- Proxy tool guides and downloads: [proxy tool center](https://socks5ip.com.cn/dailigongjuzhongxin/)
+- [烽迅IP / Fengxun](https://www.fengxunip.com/user/login?p=adminA1) (invite `adminA1`) — offers both SOCKS5 and L2TP lines, L2TP from ¥6/month
+
+Protocol choice is only half the story — test actual line quality with the free quota first.
