@@ -3,7 +3,7 @@ title: "蛟龙加速器官方注册入口（邀请码 adminA1）"
 description: "蛟龙加速器官方注册教程：官方直链+邀请码，2.8 元/月起，全场景覆盖 + 手机 APP 一键换 IP，注册支持免费测试先测后买。"
 date: 2026-08-31
 tags: [代理IP, 蛟龙加速器, 官方注册]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/zuixinzixun/zonghejiaocheng/jiaolongip-28yuan-gouyongma-shice/
 ---
 # 蛟龙加速器官方注册入口
 
@@ -48,3 +48,6 @@ https://socks5ip.com.cn/jiaolongjiasuqi/ 页面提供了价格表、使用教程
 ---
 
 > 内容由 全网低价IP 整理，原文：https://socks5ip.com.cn/jiaolongjiasuqi/
+---
+
+> 全网低价IP整理：注册后先领**免费测试**再付费（先测后买）。更多平台套餐对比见主站[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
