@@ -43,3 +43,10 @@ Cheap shared exits are the classic trap: one user on the same exit (or same /24 
 - Ask how the provider rotates out dirty IPs — a well-maintained pool matters.
 - Do a periodic bulk re-check of your lines; pools change and today's clean exit can be tomorrow's flagged one.
 - Keep scraping and account work on separate exits — don't run both through the same pool.
+
+## Where to check and what to buy instead
+
+- Free IP purity / blacklist checker: [IP check](https://socks5ip.com.cn/ip-check/)
+- Cleaner resources when shared lines keep getting tainted: [沧海IP / Canghai](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913) (invite `YAXI`) — ISP residential zones
+
+Run the 3-step check on any trial line before using it for account work.
