@@ -68,3 +68,8 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 
 **Q：哪里看各家静态/动态套餐价格？**
 [价格中心](https://socks5ip.com.cn/jiagezhongxin/) 汇总 20+ 平台静态/动态套餐与起价，对比后按场景下单。
+
+## 想直接试试？官方入口（免费测试）
+
+- 静态住宅线路：沧海 IP 一区（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)，静态住宅 8 元/月
+- 动态低价：光子 IP（邀请码 `adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
