@@ -41,3 +41,7 @@ canonical: https://socks5ip.com.cn/guowaiip-proxy/
 主流平台均支持免费测试，先测后买零风险。注册邀请码见[注册入口汇总](https://socks5ip.com.cn/guowaiip-proxy/)。
 
 > 价格以官方实时为准；海外业务一律先免费测试再购买。
+## 想直接试试？官方入口（免费测试）
+
+- 海外平台：无双 IP（`nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)｜55游（`adminA1`）[注册入口](https://55u.net/#/login?c=adminA1)
+- 海外专题与比价：[guowaiip-proxy](https://socks5ip.com.cn/guowaiip-proxy/)｜[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
