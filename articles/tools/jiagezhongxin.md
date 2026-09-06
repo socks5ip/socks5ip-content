@@ -3,7 +3,7 @@ title: "价格中心：免费在线工具（全网低价IP）"
 description: "20+ 家代理 IP 平台价格/套餐/优惠活动一站式比价，全部支持免费测试"
 date: 2026-08-31
 tags: [代理IP, 价格中心, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/jiagezhongxin/
 ---
 # 价格中心（免费在线工具）
 
