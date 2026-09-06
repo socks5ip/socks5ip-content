@@ -45,3 +45,7 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 [价格中心](https://socks5ip.com.cn/jiagezhongxin/) 汇集 20+ 平台起售价，2-3 元档横向对比一目了然。
 
 > 价格以各平台官方实时为准；低价档一律先免费测试再付款。
+## 想直接试试？官方入口（免费测试）
+
+- 低价档代表：光梭 IP（邀请码 `adminA8`）[注册入口](http://www.guangsuoip.com/#/register?invitation=adminA8)；奔富 IP（`adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，2.6 元/月
+- 全档比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
