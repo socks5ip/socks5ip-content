@@ -3,7 +3,7 @@ title: "IP质量检测：免费在线工具（全网低价IP）"
 description: "IP 归属地查询、住宅/机房识别、代理 VPN 标记、黑名单状态，免费一键检测"
 date: 2026-08-31
 tags: [代理IP, IP质量检测, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/ip-check/
 ---
 # IP质量检测（免费在线工具）
 
