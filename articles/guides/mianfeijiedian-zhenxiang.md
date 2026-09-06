@@ -38,3 +38,7 @@ canonical: https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/
 用[IP质量检测](https://socks5ip.com.cn/ip-check/)看归属类型和黑名单状态；正规平台线路通常提供测试。
 
 > 工具免费 ≠ 节点免费；重要业务请用正规代理IP，先测后买。
+## 想直接试试？官方入口（免费测试）
+
+- 免费节点风险自查：主站[IP 检测中心](https://socks5ip.com.cn/ip-check-center/)
+- 便宜又正规的替代：奔富 IP（邀请码 `adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)，2.6 元/月；光子 IP（`adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)
