@@ -55,7 +55,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（32）
+## 选型与实战指南（40）
 
 | 分类 | 文章 |
 |---|---|
@@ -68,6 +68,8 @@
 | 2026 主站对齐·平台选型 | [光子IP套餐选型](articles/guides/guangziip-taocan-xuanxing.md) ｜ [沧海IP组合省钱](articles/guides/canghaiip-zuhe-shengqian.md) ｜ [烽迅IP价格表2026](articles/guides/fengxunip-jiagebiao-2026.md) |
 | 决策与成本（2026） | [月预算20/50/100能买什么](articles/guides/yusuan-20-50-100-nengmai-shenme.md) ｜ [短效长效成本精算](articles/guides/duanxiao-changxiao-chengben.md) ｜ [按场景决策树](articles/guides/anjingxuan-ip-jueceshu.md) ｜ [价格行情综述](articles/guides/2026-jiage-hangqing-zongshu.md) |
 |  | [一个人要几个IP](articles/guides/yigeren-yao-jige-ip.md) ｜ [六种套路避坑](articles/guides/changjian-pianju-bikeng.md) ｜ [高纯净度IP成本](articles/guides/gaochunjing-ip-chengben.md) ｜ [免费vs付费对比](articles/guides/mianfei-vs-fufei-duibi.md) |
+| 实测与观察（角度深化） | [长期账单测算](articles/guides/zhangqi-chengben-zhangdan.md) ｜ [跨境0到1复盘](articles/guides/kuajing-0dao1-wangluo-fupan.md) ｜ [免费测试实测记录](articles/guides/mianfei-ceshi-shice-jilu.md) ｜ [SOCKS5 vs L2TP实测](articles/guides/socks5-l2tp-shice-duibi.md) |
+|  | [服务商不会告诉你的8件事](articles/guides/fuwushang-8jianshi.md) ｜ [30个术语词典](articles/guides/dailiip-heihua-30ci.md) ｜ [首次购买30分钟清单](articles/guides/mai-ip-qian-30fenzhong.md) ｜ [新手10大认知误区](articles/guides/xinshou-renzhi-wuqu-10ge.md) |
 
 ## 平台横向对比（7）
 
@@ -134,3 +136,4 @@
 - 2026-09-05：**第五批 主站对齐 8 篇**（公网私网/IPv4v6/静态住宅购买指南/光子套餐选型/沧海组合省钱/烽迅价格表/烽迅注册省心版/国产vs海外市场）→ 内容仓累计 **73 篇**
 - 2026-09-05：**第六批 英文 EN 10 篇**（新增 articles/en/ 子目录）→ 内容仓累计 **83 篇**
 - 2026-09-06：**第七批 决策算账 8 篇**（预算/成本精算/决策树/行情/配置/避坑/纯净度成本/免费vs付费）→ 内容仓累计 **91 篇**
+- 2026-09-06：**第八批 角度深化 ① 8 篇**（长期账单/跨境复盘/免费测试实测/协议实测/服务商8件事/30术语/30分钟清单/10误区）→ 内容仓累计 **99 篇**
