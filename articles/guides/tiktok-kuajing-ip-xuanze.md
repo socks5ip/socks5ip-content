@@ -44,3 +44,8 @@ TikTok 会综合评估 IP 归属地与账号定位是否一致、IP 是否被大
 [国外IP平台专题](https://socks5ip.com.cn/guowaiip-proxy/) 有 4 大海外平台对比与注册入口，先测后买。
 
 > 地区匹配 + 住宅出身 + 环境稳定，是 TikTok 跨境运营的三个关键词。
+## 想直接试试？官方入口（免费测试）
+
+- 海外社媒线路：无双 IP（邀请码 `nBhBjh3kGW39`）[注册入口](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39)，7.5 元/月起
+- 按天试海外节点：55游（`adminA1`）[注册入口](https://55u.net/#/login?c=adminA1)
+- 海外专题：[guowaiip-proxy](https://socks5ip.com.cn/guowaiip-proxy/)
