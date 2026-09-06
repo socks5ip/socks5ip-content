@@ -61,3 +61,7 @@ canonical: https://socks5ip.com.cn/jiagezhongxin/
 [价格中心](https://socks5ip.com.cn/jiagezhongxin/) 一站式对比 20+ 平台套餐与起售价，先测后买不踩坑。
 
 > 数据更新至 2026-09-01，价格以各平台官方实时为准；全部平台支持免费测试，先测后买。
+## 想直接试试？官方入口（免费测试）
+
+- 国内主流代表：奔富 IP（`adminA1`）[注册入口](https://user.benfuip.com/main/register?aff=adminA1)｜光子 IP（`adminA1`）[注册入口](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231)｜沧海 IP（`YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)
+- 全部 20+ 平台对比：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
