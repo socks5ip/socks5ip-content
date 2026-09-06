@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 103+ 篇**（注册 23 + 工具 6 + 指南 44 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 106+ 篇**（注册 23 + 工具 6 + 指南 47 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（44）
+## 选型与实战指南（47）
 
 | 分类 | 文章 |
 |---|---|
@@ -73,6 +73,7 @@
 | 实测与观察（角度深化） | [长期账单测算](articles/guides/zhangqi-chengben-zhangdan.md) ｜ [跨境0到1复盘](articles/guides/kuajing-0dao1-wangluo-fupan.md) ｜ [免费测试实测记录](articles/guides/mianfei-ceshi-shice-jilu.md) ｜ [SOCKS5 vs L2TP实测](articles/guides/socks5-l2tp-shice-duibi.md) |
 |  | [服务商不会告诉你的8件事](articles/guides/fuwushang-8jianshi.md) ｜ [30个术语词典](articles/guides/dailiip-heihua-30ci.md) ｜ [首次购买30分钟清单](articles/guides/mai-ip-qian-30fenzhong.md) ｜ [新手10大认知误区](articles/guides/xinshou-renzhi-wuqu-10ge.md) |
 |  | [2026-09 平台价格快照](articles/guides/2026-jiage-kuaizhao-20jia.md) ｜ [定价结构拆解](articles/guides/ip-dingjia-chaijie.md) ｜ [三步验货流程](articles/guides/gongju-3bu-yanhuo.md) ｜ [老手选型教训复盘](articles/guides/laohu-xuanxing-jiaoxun.md) |
+| 主站新文对齐（9/7） | [55游买IP+开中转完整流程](articles/guides/55you-goumai-zhongzhuan-jiaocheng.md) ｜ [皇冠海外IP价格表2026](articles/guides/crown-haiwaip-jiagebiao-2026.md) ｜ [极驰云IP注册+配置教程](articles/guides/jichiyunip-zhuce-peizhi-jiaocheng.md) |
 
 ## 平台横向对比（7）
 
