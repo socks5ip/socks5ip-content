@@ -3,7 +3,7 @@ title: "代理线路可用性检测：免费在线工具（全网低价IP）"
 description: "SOCKS5/HTTP 真实协议握手、延迟分级、批量检测、出口归属地查询"
 date: 2026-08-31
 tags: [代理IP, 代理线路可用性检测, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/proxy-check/
 ---
 # 代理线路可用性检测（免费在线工具）
 
