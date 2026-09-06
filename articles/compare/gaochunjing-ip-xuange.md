@@ -46,3 +46,7 @@ IP 的历史信誉画像：归属类型、黑名单记录、使用历史等。�
 通常比普通机房IP贵，但账号安全的价值远高于差价。先测后买，按业务重要性分配预算。
 
 > 数据更新至 2026-09-01，价格以官方为准；高纯净需求一律先免费检测再购买。
+## 想直接试试？官方入口（免费测试）
+
+- 高纯净代表：沧海 IP 三区 ISP 住宅（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)；无忧 IP（`6ABE1`）[注册入口](https://link.wuyouip.com/6ABE1)
+- 纯净度自测：[IP 检测](https://socks5ip.com.cn/ip-check/)｜比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
