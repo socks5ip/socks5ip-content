@@ -47,3 +47,8 @@ canonical: https://socks5ip.com.cn/ip-check/
 环境干净是前提。换干净 IP 后按平台风控观察期正常操作，逐步恢复。
 
 > 被标记不可怕，继续在脏环境上硬撑才可怕。
+## 想直接试试？官方入口（免费测试）
+
+- 自查工具：主站[IP 质量检测](https://socks5ip.com.cn/ip-check/)（黑名单/归属免费测）
+- 怕脏换干净的：沧海 IP（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)，ISP 住宅档
+- 全平台比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
