@@ -3,7 +3,7 @@ title: "IP综合检测中心：免费在线工具（全网低价IP）"
 description: "4 款自研免费检测工具聚合：IP 质量、线路检测、宽带测速、业务场景模拟，一站式先测后买"
 date: 2026-08-31
 tags: [代理IP, IP综合检测中心, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/ip-check-center/
 ---
 # IP综合检测中心（免费在线工具）
 
