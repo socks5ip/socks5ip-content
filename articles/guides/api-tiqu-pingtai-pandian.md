@@ -45,3 +45,7 @@ canonical: https://socks5ip.com.cn/goumaixiazaizhongxin/
 [购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/) 有平台汇总，先测后买。
 
 > 对接 API 前务必先测后买，用测试额度跑通流程再正式采购。
+## 想直接试试？官方入口（免费测试）
+
+- 支持 API 提取的平台：优众 IP（推广码 `8F6A590B...`，[注册](https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC)）；JiuIP（`adminA0`）[注册](https://jiuip.com/#/r?p=adminA0)
+- 全平台比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)｜工具中心：[购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/)
