@@ -48,3 +48,7 @@ A：主流平台 4-6 元/月起，带宽越大越贵；软路由多设备共享�
 
 **Q：哪些软路由支持 L2TP？**
 A：OpenWrt、爱快、ROS（RouterOS）及主流路由器固件都支持 L2TP 客户端，配置教程见[软路由专题](https://socks5ip.com.cn/ruanluyou-proxy/)。
+## 想直接试试？官方入口（免费测试）
+
+- L2TP 代表：烽迅 IP（邀请码 `adminA1`）[注册入口](https://www.fengxunip.com/user/login?p=adminA1)，L2TP 6 元/月起
+- 软路由方案：[ruanluyou-proxy](https://socks5ip.com.cn/ruanluyou-proxy/)｜比价：[价格中心](https://socks5ip.com.cn/jiagezhongxin/)
