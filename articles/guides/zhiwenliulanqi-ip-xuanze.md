@@ -45,3 +45,7 @@ canonical: https://socks5ip.com.cn/browser-proxy/
 [浏览器代理专题](https://socks5ip.com.cn/browser-proxy/) 有完整配置教程与工具推荐。
 
 > 环境隔离是系统工程，指纹 + IP + 操作习惯三者都要管。
+## 想直接试试？官方入口（免费测试）
+
+- 指纹浏览器配独立出口：沧海 IP（邀请码 `YAXI`）[注册入口](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913)，住宅档
+- 出口检测（配好指纹后验串没串线）：主站[IP 质量检测](https://socks5ip.com.cn/ip-check/)
