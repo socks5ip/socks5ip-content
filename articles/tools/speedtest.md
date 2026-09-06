@@ -3,7 +3,7 @@ title: "网络测速：免费在线工具（全网低价IP）"
 description: "下载/上传速度、延迟、抖动、丢包，一分钟测出网络真实水平"
 date: 2026-08-31
 tags: [代理IP, 网络测速, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/speedtest/
 ---
 # 网络测速（免费在线工具）
 
