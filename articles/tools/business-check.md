@@ -3,7 +3,7 @@ title: "业务场景模拟检测：免费在线工具（全网低价IP）"
 description: "通用/社媒/多开/采集/跨境/AI 六场景适配评分，选 IP 前先测再买"
 date: 2026-08-31
 tags: [代理IP, 业务场景模拟检测, 免费工具, 在线检测]
-canonical: 见正文
+canonical: https://socks5ip.com.cn/business-check/
 ---
 # 业务场景模拟检测（免费在线工具）
 
