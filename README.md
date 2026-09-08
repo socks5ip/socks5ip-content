@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 109+ 篇**（注册 23 + 工具 6 + 指南 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 112+ 篇**（注册 23 + 工具 6 + 指南 53 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -63,8 +63,8 @@
 |---|---|
 | 入门认知 | [代理IP入门到精通](articles/guides/dailiip-rumen.md) ｜ [怎么选IP（6维度）](articles/guides/zenme-xuan-ip.md) ｜ [为什么先测后买](articles/guides/xian-ce-hou-mai.md) |
 | 类型与协议 | [SOCKS5/L2TP/HTTP怎么选](articles/guides/xieyi-xuanze.md) ｜ [静态/动态、住宅/机房](articles/guides/ip-leixing.md) ｜ [IP纯净度](articles/guides/ip-chunjingdu.md) |
-| 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) ｜ [TikTok跨境选IP](articles/guides/tiktok-kuajing-ip-xuanze.md) |
-| 工具搭配 | [指纹浏览器+IP搭配](articles/guides/zhiwenliulanqi-ip-xuanze.md) ｜ [API提取平台盘点](articles/guides/api-tiqu-pingtai-pandian.md) ｜ [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) |
+| 场景实战 | [跨境电商选海外IP](articles/guides/kuajing-xuan-ip.md) ｜ [游戏多开选IP](articles/guides/youxi-duokai.md) ｜ [社媒矩阵运营](articles/guides/shemei-yunying.md) ｜ [数据采集选IP](articles/guides/shuju-caiji.md) ｜ [TikTok跨境选IP](articles/guides/tiktok-kuajing-ip-xuanze.md) ｜ [账号矩阵要几个IP](articles/guides/zhanghao-juzhen-jigeip-guihua-2026.md) ｜ [被限制登录四步排查](articles/guides/zhanghao-xianzhi-denglu-paicha-2026.md) |
+| 工具搭配 | [指纹浏览器+IP搭配](articles/guides/zhiwenliulanqi-ip-xuanze.md) ｜ [API提取平台盘点](articles/guides/api-tiqu-pingtai-pandian.md) ｜ [软路由代理入门](articles/guides/ruanluyou-ru-men.md) ｜ [选IP免费体检+20问](articles/guides/mianfei-jianche.md) ｜ [出口IP四步自查](articles/guides/dailiip-chukou-jiancha-jiaocheng-2026.md) |
 | 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
 | 2026 主站对齐·科普 | [公网IP和私网IP区别](articles/guides/gongwang-siwang-ip-qubie.md) ｜ [IPv4/IPv6 影响](articles/guides/ipv4-ipv6-yingxiang.md) ｜ [静态住宅IP购买指南](articles/guides/jingtaizhuzhai-ip-goumai-zhinan.md) ｜ [国产vs海外市场观察](articles/guides/guonei-haiwai-market-2026.md) |
 | 2026 主站对齐·平台选型 | [光子IP套餐选型](articles/guides/guangziip-taocan-xuanxing.md) ｜ [沧海IP组合省钱](articles/guides/canghaiip-zuhe-shengqian.md) ｜ [烽迅IP价格表2026](articles/guides/fengxunip-jiagebiao-2026.md) |
@@ -143,3 +143,4 @@
 - 2026-09-06：**第七批 决策算账 8 篇**（预算/成本精算/决策树/行情/配置/避坑/纯净度成本/免费vs付费）→ 内容仓累计 **91 篇**
 - 2026-09-06：**第八批 角度深化 ① 8 篇**（长期账单/跨境复盘/免费测试实测/协议实测/服务商8件事/30术语/30分钟清单/10误区）→ 内容仓累计 **99 篇**
 - 2026-09-06：**第八批 角度深化 ② 4 篇**（价格快照/定价拆解/三步验货/老手教训）→ **内容仓突破 100 篇（103 篇），四~八批专项收官**
+- 2026-09-09：**滚动期指南 3 篇**（账号矩阵要几个IP/被限制登录四步排查/出口IP四步自查）→ 内容仓累计 **112 篇**
