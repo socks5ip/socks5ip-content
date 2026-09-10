@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 112+ 篇**（注册 23 + 工具 6 + 指南 53 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 115+ 篇**（注册 23 + 工具 6 + 指南 56 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -68,6 +68,7 @@
 | 避坑真相 | [免费节点为什么不能用](articles/guides/mianfeijiedian-zhenxiang.md) ｜ [IP被标记了怎么办](articles/guides/ip-beibiaozhi-zenmeban.md) |
 | 2026 主站对齐·科普 | [公网IP和私网IP区别](articles/guides/gongwang-siwang-ip-qubie.md) ｜ [IPv4/IPv6 影响](articles/guides/ipv4-ipv6-yingxiang.md) ｜ [静态住宅IP购买指南](articles/guides/jingtaizhuzhai-ip-goumai-zhinan.md) ｜ [国产vs海外市场观察](articles/guides/guonei-haiwai-market-2026.md) |
 | 2026 主站对齐·平台选型 | [光子IP套餐选型](articles/guides/guangziip-taocan-xuanxing.md) ｜ [沧海IP组合省钱](articles/guides/canghaiip-zuhe-shengqian.md) ｜ [烽迅IP价格表2026](articles/guides/fengxunip-jiagebiao-2026.md) |
+| 2026 主站对齐·账号与运维 | [天行IP账号管理](articles/guides/tianxingip-denglu-zhanghao-guanli-2026.md) ｜ [奔富静态动态切换](articles/guides/benfuip-dongtai-jingtai-qiehuan-2026.md) ｜ [代理IP到期处理](articles/guides/dailiip-daoqi-xufei-qianyi-2026.md) |
 | 决策与成本（2026） | [月预算20/50/100能买什么](articles/guides/yusuan-20-50-100-nengmai-shenme.md) ｜ [短效长效成本精算](articles/guides/duanxiao-changxiao-chengben.md) ｜ [按场景决策树](articles/guides/anjingxuan-ip-jueceshu.md) ｜ [价格行情综述](articles/guides/2026-jiage-hangqing-zongshu.md) |
 |  | [一个人要几个IP](articles/guides/yigeren-yao-jige-ip.md) ｜ [六种套路避坑](articles/guides/changjian-pianju-bikeng.md) ｜ [高纯净度IP成本](articles/guides/gaochunjing-ip-chengben.md) ｜ [免费vs付费对比](articles/guides/mianfei-vs-fufei-duibi.md) |
 | 实测与观察（角度深化） | [长期账单测算](articles/guides/zhangqi-chengben-zhangdan.md) ｜ [跨境0到1复盘](articles/guides/kuajing-0dao1-wangluo-fupan.md) ｜ [免费测试实测记录](articles/guides/mianfei-ceshi-shice-jilu.md) ｜ [SOCKS5 vs L2TP实测](articles/guides/socks5-l2tp-shice-duibi.md) |
@@ -144,3 +145,4 @@
 - 2026-09-06：**第八批 角度深化 ① 8 篇**（长期账单/跨境复盘/免费测试实测/协议实测/服务商8件事/30术语/30分钟清单/10误区）→ 内容仓累计 **99 篇**
 - 2026-09-06：**第八批 角度深化 ② 4 篇**（价格快照/定价拆解/三步验货/老手教训）→ **内容仓突破 100 篇（103 篇），四~八批专项收官**
 - 2026-09-09：**滚动期指南 3 篇**（账号矩阵要几个IP/被限制登录四步排查/出口IP四步自查）→ 内容仓累计 **112 篇**
+- 2026-09-10：**滚动期指南 3 篇**（天行IP账号管理/奔富动静切换/代理IP到期处理）→ 内容仓累计 **115 篇**
