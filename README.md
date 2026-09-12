@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 121+ 篇**（注册 23 + 工具 6 + 指南 62 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 124+ 篇**（注册 23 + 工具 6 + 指南 65 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（62）
+## 选型与实战指南（65）
 
 | 分类 | 文章 |
 |---|---|
@@ -78,6 +78,7 @@
 | 主站新文对齐（9/7） | [55游买IP+开中转完整流程](articles/guides/55you-goumai-zhongzhuan-jiaocheng.md) ｜ [皇冠海外IP价格表2026](articles/guides/crown-haiwaip-jiagebiao-2026.md) ｜ [极驰云IP注册+配置教程](articles/guides/jichiyunip-zhuce-peizhi-jiaocheng.md) |
 | 主站新文对齐（9/8） | [全球代理IP节点套餐升级说明](articles/guides/quanqiuip-taocan-shengji-2026.md) ｜ [无忧IP价格表2026](articles/guides/wuyouip-jiagebiao-2026.md) ｜ [糖果IP价格表2026](articles/guides/tangguoip-jiagebiao-2026.md) |
 | 主站新文对齐（9/12） | [天行IP价格表2026](articles/guides/tianxingip-jiagebiao-2026.md) ｜ [鲸云IP定制AB区值得加钱吗](articles/guides/jingyunip-dingzhiab-jiage-2026.md) ｜ [小火煎/sstip/shadowrockets 分别指什么](articles/guides/xiaohuojian-sstap-pinzie-bianti.md) |
+| 主站新文对齐（9/12 滚动②） | [JiuIP 10开成本套餐组合测算](articles/guides/jiuip-10kai-chengben-zuhe-2026.md) ｜ [小火箭共享账号风险与自购替代](articles/guides/xiaohuojian-gongxiang-zhanghao-fengxian-2026.md) ｜ [沧海IP导入老鱼单窗口单IP实操](articles/guides/canghaiip-laoyu-daoru-danchuangkou-2026.md) |
 
 ## 平台横向对比（7）
 
@@ -150,3 +151,4 @@
 - 2026-09-10：**滚动期指南 3 篇**（天行IP账号管理/奔富动静切换/代理IP到期处理）→ 内容仓累计 **115 篇**
 - 2026-09-11：**滚动期指南 3 篇**（JiuIP三网选线/沧海八区对照/SOCKS5 vs HTTP）→ 内容仓累计 **118 篇**
 - 2026-09-12：**滚动期指南 3 篇**（天行IP价格表2026/鲸云IP定制AB区加钱测算/代理客户端常见错拼对照）→ 内容仓累计 **121 篇**
+- 2026-09-12（晚）：**滚动期指南 3 篇**（JiuIP 10开成本套餐组合测算/小火箭共享账号风险与自购替代/沧海IP导入老鱼单窗口单IP实操）→ 内容仓累计 **124 篇**
