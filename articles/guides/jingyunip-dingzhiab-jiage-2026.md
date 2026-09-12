@@ -83,7 +83,20 @@ canonical: https://socks5ip.com.cn/guoneiip/jingyunip/jingyunip-dingzhiab-zhide-
 
 **一条实操经验**：多账号场景的核心是「一个窗口一个独立出口 IP」，不是堆带宽。10Mbps 撑 10-15 个纯挂机窗口没问题；等窗口数或流量顶到上限，再换定制区。先按家庭区起步、哪个窗口真卡了再单独升档，是最省钱的路径。
 
-## 五、常见问题
+## 五、官方入口与相关页面（鲸云IP）
+
+| 用途 | 直达页面 |
+|---|---|
+| 💰 **价格表**（家庭AB/定制AB/机房全线） | [鲸云IP 价格表](https://socks5ip.com.cn/jiagebiao/jingyunjiagebiao/) |
+| 🚀 **官方注册** | [鲸云IP 官方注册入口](https://console.51tcp.com/auth/register?i=degj) |
+| 📖 **使用教程** | [鲸云IP 购买与使用教程](https://socks5ip.com.cn/jiaochengzhongxin/jingyunjiaocheng/) |
+| ⚖️ **线路对比**（机房 / 家庭AB / 定制AB） | [鲸云IP 三条产品线对比](https://socks5ip.com.cn/guoneiip/jingyunip/jingyundailiipduibi/) |
+| 🔍 **自测工具** | [IP 综合检测中心](https://socks5ip.com.cn/ip-check-center/) ｜ [带宽速度实测](https://socks5ip.com.cn/speedtest/) ｜ [线路可用性检测](https://socks5ip.com.cn/proxy-check/) |
+| 🧰 **客户端下载** | [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/) ｜ [购买下载中心](https://socks5ip.com.cn/fuwuzhongxin/) |
+
+> 改价方式：联系客服发送「鲸云ip + 你的账号 + 改价」。本文价格如有调整，以官方价格表与平台后台实时显示为准。
+
+## 六、常见问题
 
 **Q：定制 A 和定制 B 怎么选？**
 按协议走：你的工具用 Socks5/HTTP 就选 A，用 L2TP（软路由、设备直连）就选 B。定制 B 多一个「秒切」，需要频繁换 IP 的场景直接选 B。
