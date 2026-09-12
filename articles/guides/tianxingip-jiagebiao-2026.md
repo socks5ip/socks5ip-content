@@ -62,7 +62,19 @@ canonical: https://socks5ip.com.cn/guoneiip/tianxingipjiagebiao/
 
 三条线测完再决定买哪档，就不用为「参数表上的宽带」多付钱。
 
-## 五、常见问题
+## 五、官方入口与相关页面（天行IP）
+
+| 用途 | 直达页面 |
+|---|---|
+| 💰 **价格表**（本文即官方 4 折价） | [天行IP 代理服务平台价格表](https://socks5ip.com.cn/guoneiip/tianxingipjiagebiao/) |
+| 🚀 **官方注册**（含邀请码 `tianxingA0`） | [天行IP 官方 4 折注册入口](http://www.tianxingip.com/proxy/index/index/code/tianxingA0/p/2242.html) |
+| 📖 **使用教程**（SK5 + L2TP 配置） | [天行IP 注册与使用教程](https://socks5ip.com.cn/guoneiip/tianxingipjiaocheng/) |
+| 🔍 **线路自检** | [IP 综合检测中心](https://socks5ip.com.cn/ip-check-center/) ｜ [代理线路可用性检测](https://socks5ip.com.cn/proxy-check/) |
+| 🧰 **客户端下载** | [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/) ｜ [购买下载中心](https://socks5ip.com.cn/fuwuzhongxin/) |
+
+> 注册时填邀请码 `tianxingA0` 即为 4 折渠道价。本文价格如有调整，以官方价格表与平台后台实时显示为准。
+
+## 六、常见问题
 
 **Q：长效静态和 N 节点都是 6 元/月，差在哪？**
 长效静态是机房资源、稳定性最好，适合长期挂机；N 节点是住宅/家庭 IP、IP 属性更真实，但平台自己也标注「稳定性相对一般」，适合对 IP 属性有要求、能接受偶尔波动的业务。
