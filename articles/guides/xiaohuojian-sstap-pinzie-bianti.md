@@ -57,7 +57,20 @@ canonical: https://socks5ip.com.cn/dailigongju/pingguodaili/shadowrocket/xiaohuo
 
 「代理工具中心」（[https://socks5ip.com.cn/dailigongjuzhongxin/](https://socks5ip.com.cn/dailigongjuzhongxin/)）按平台整理了各客户端与对应配置教程，找不准该用哪个时从那里进更快。
 
-## 五、常见问题
+## 五、相关客户端教程（本站）
+
+| 客户端 | 平台 | 教程 / 下载页 |
+|---|---|---|
+| Shadowrocket（小火箭） | iOS | [小火箭配置教程](https://socks5ip.com.cn/dailigongju/shadowrocketjiaocheng-2/) ｜ [苹果工具专题](https://socks5ip.com.cn/ios-mac-proxy/) |
+| SSTap | Windows | [SSTap 使用教程](https://socks5ip.com.cn/dailigongju/sstapjiaocheng/) ｜ [电脑工具专题](https://socks5ip.com.cn/pc-proxy/) |
+| NekoBox | Android | [NekoBox 使用教程](https://socks5ip.com.cn/dailigongju/nekoboxshiyongjiaocheng/) ｜ [安卓工具专题](https://socks5ip.com.cn/android-proxy/) |
+| 老鱼加速器 | Windows | [免费版](https://socks5ip.com.cn/dailigongju/laoyujiasuqimianfeib/) ｜ [专业版](https://socks5ip.com.cn/dailigongju/laoyujiasuqizhuanyeb/) |
+| 有米加速器 | Windows | [有米简易教程](https://socks5ip.com.cn/dailigongju/youmijianyijiaocheng/) |
+| Proxifier | Windows | [Proxifier 代理软件用法](https://socks5ip.com.cn/dailigongju/proxifiersdailiruanj/) |
+
+**配好客户端之后**：线路选型与比价见 [价格中心](https://socks5ip.com.cn/jiagezhongxin/)（20+ 家平台），客户端与配置教程汇总在 [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)，注册与下载一站入口在 [购买下载中心](https://socks5ip.com.cn/fuwuzhongxin/)。
+
+## 六、常见问题
 
 **Q：搜「小火煎」搜到的是小火箭，是我搜错了吗？**
 不算搜错，这是输入法同音候选导致的常见写法，指的确实是 iOS 的 Shadowrocket。
