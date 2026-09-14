@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 128+ 篇**（注册 23 + 工具 6 + 指南 70 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 133+ 篇**（注册 23 + 工具 6 + 指南 75 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（70）
+## 选型与实战指南（75）
 
 | 分类 | 文章 |
 |---|---|
@@ -80,6 +80,7 @@
 | 主站新文对齐（9/12） | [天行IP价格表2026](articles/guides/tianxingip-jiagebiao-2026.md) ｜ [鲸云IP定制AB区值得加钱吗](articles/guides/jingyunip-dingzhiab-jiage-2026.md) ｜ [小火煎/sstip/shadowrockets 分别指什么](articles/guides/xiaohuojian-sstap-pinzie-bianti.md) |
 | 主站新文对齐（9/12 滚动②） | [JiuIP 10开成本套餐组合测算](articles/guides/jiuip-10kai-chengben-zuhe-2026.md) ｜ [小火箭共享账号风险与自购替代](articles/guides/xiaohuojian-gongxiang-zhanghao-fengxian-2026.md) ｜ [沧海IP导入老鱼单窗口单IP实操](articles/guides/canghaiip-laoyu-daoru-danchuangkou-2026.md) |
 | 主站新文对齐（9/13） | [天行IP 便宜档 vs 主力档 4 元差价拆解](articles/guides/tianxingip-pianyidang-zhulidang-chaijie-2026.md) ｜ [模拟器单窗口单IP 排查顺序](articles/guides/moniqi-danchuangkou-danip-paicha-2026.md) ｜ [安卓客户端 HTTP 出站的能力边界](articles/guides/nekobox-http-chuzhan-bianjie-2026.md) ｜ [奔富IP 价格表阅读顺序与单价拐点](articles/guides/benfuip-12-dangwei-guaidian-2026.md) ｜ [抢单秒杀为什么先看抖动和并发](articles/guides/qiangdan-miaosha-doudong-bingfa-2026.md) |
+| 主站新文对齐（9/14） | [沧海IP 天卡周卡月卡的换算临界点](articles/guides/canghaiip-tianka-zhouka-yueka-linjiedian-2026.md) ｜ [鲸云IP 免费测试流程与切换额度门槛](articles/guides/jingyunip-mianfei-ceshi-edu-2026.md) ｜ [小火箭四条获取路径与线路变量](articles/guides/xiaohuojian-banben-qubie-huoqu-lujing-2026.md) ｜ [光梭IP 低价批量任务该压哪一档](articles/guides/guangsuoip-piliang-renwu-dangwei-zuhe-2026.md) ｜ [IP 是否干净和能不能用不是一回事](articles/guides/ip-chunjingdu-keyongxing-sanceng-2026.md) |
 
 ## 平台横向对比（7）
 
@@ -154,3 +155,4 @@
 - 2026-09-12：**滚动期指南 3 篇**（天行IP价格表2026/鲸云IP定制AB区加钱测算/代理客户端常见错拼对照）→ 内容仓累计 **121 篇**
 - 2026-09-12（晚）：**滚动期指南 3 篇**（JiuIP 10开成本套餐组合测算/小火箭共享账号风险与自购替代/沧海IP导入老鱼单窗口单IP实操）→ 内容仓累计 **124 篇**
 - 2026-09-13：**滚动期指南 5 篇**（天行IP 两档差价拆解/模拟器单窗口单IP 排查顺序/安卓客户端 HTTP 出站边界/奔富IP 价格表阅读顺序与单价拐点/抢单秒杀抖动与并发）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **128 篇（指南 70）**
+- 2026-09-14：**滚动期指南 5 篇**（沧海IP 天卡周卡月卡换算临界点/鲸云IP 免费测试流程与 30 次切换额度门槛/小火箭四条获取路径与线路变量/光梭IP 低价批量任务档位组合/IP 纯净度与可用性三层关系）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **133 篇（指南 75）**
