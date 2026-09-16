@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 138+ 篇**（注册 23 + 工具 6 + 指南 80 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 143+ 篇**（注册 23 + 工具 6 + 指南 85 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -25,7 +25,7 @@
 | [天行IP](articles/register/tianxingip.md) | 6 元/月 | SOCKS5/L2TP/PPTP | `tianxingA0` | [注册](http://www.tianxingip.com/proxy/index/index/code/tianxingA0/p/2242.html) |
 | [沧海IP](articles/register/canghaiip.md) | 4 元/月 | SOCKS5/L2TP | `YAXI` | [注册](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913) |
 | [优众IP](articles/register/youzhongip.md) | 7.2 元/月 | L2TP+SK5 | `8F6A590B...` | [注册](https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC) |
-| [鲸云IP](articles/register/jingyunip.md) | 6 元/月 | SOCKS5/L2TP/HTTP | `i=yb4y` | [注册](https://console.51tcp.com/auth/register?i=yb4y) |
+| [鲸云IP](articles/register/jingyunip.md) | 6 元/月 | SOCKS5/L2TP/HTTP | `i=degj` | [注册](https://console.51tcp.com/auth/register?i=degj) |
 | [JiuIP](articles/register/jiuip.md) | 3.4 元/月 | SOCKS5/L2TP | `adminA0` | [注册](https://jiuip.com/#/r?p=adminA0) |
 | [光梭IP](articles/register/guangsuoip.md) | 2.24 元/月 | SOCKS5/L2TP/HTTP/PPTP | `adminA8` | [注册](http://www.guangsuoip.com/#/register?invitation=adminA8) |
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（80）
+## 选型与实战指南（85）
 
 | 分类 | 文章 |
 |---|---|
@@ -82,6 +82,7 @@
 | 主站新文对齐（9/13） | [天行IP 便宜档 vs 主力档 4 元差价拆解](articles/guides/tianxingip-pianyidang-zhulidang-chaijie-2026.md) ｜ [模拟器单窗口单IP 排查顺序](articles/guides/moniqi-danchuangkou-danip-paicha-2026.md) ｜ [安卓客户端 HTTP 出站的能力边界](articles/guides/nekobox-http-chuzhan-bianjie-2026.md) ｜ [奔富IP 价格表阅读顺序与单价拐点](articles/guides/benfuip-12-dangwei-guaidian-2026.md) ｜ [抢单秒杀为什么先看抖动和并发](articles/guides/qiangdan-miaosha-doudong-bingfa-2026.md) |
 | 主站新文对齐（9/14） | [沧海IP 天卡周卡月卡的换算临界点](articles/guides/canghaiip-tianka-zhouka-yueka-linjiedian-2026.md) ｜ [鲸云IP 免费测试流程与切换额度门槛](articles/guides/jingyunip-mianfei-ceshi-edu-2026.md) ｜ [小火箭四条获取路径与线路变量](articles/guides/xiaohuojian-banben-qubie-huoqu-lujing-2026.md) ｜ [光梭IP 低价批量任务该压哪一档](articles/guides/guangsuoip-piliang-renwu-dangwei-zuhe-2026.md) ｜ [IP 是否干净和能不能用不是一回事](articles/guides/ip-chunjingdu-keyongxing-sanceng-2026.md) |
 | 主站新文对齐（9/15） | [免费节点三天留存率自测](articles/guides/mianfeijiedian-cunliu-zhouqi-ceshi-2026.md) ｜ [客户端换了几轮还是连不上：三层归因](articles/guides/kehuduan-huanle-haishi-lianbushang-2026.md) ｜ [安装包到手先核三条真伪指标](articles/guides/anzhuangbao-zhenwei-hedui-2026.md) ｜ [新装客户端的三项离线自检](articles/guides/anzhuo-kehuduan-anhzuang-hou-sanzhen-2026.md) ｜ [全球代理IP 五类线路的档位临界点](articles/guides/quanqiuip-dangwei-linjiedian-2026.md) |
+| 主站新文对齐（9/16） | [鲸云IP 五档混买的成本配比](articles/guides/jingyunip-wudang-hunhe-goumai-chengben-2026.md) ｜ [光梭IP 两套凭证混用的排查顺序](articles/guides/guangsuoip-denglu-paicha-liangtao-pingzheng-2026.md) ｜ [糖果IP 可信度四项对照口径](articles/guides/tangguoip-kaopu-siziicha-2026.md) ｜ [糖果IP 后台两套分区定位](articles/guides/tangguoip-denglu-hou-fenqu-dingwei-2026.md) ｜ [长城IP 5 元档边界与计费周期](articles/guides/changchengip-5yuan-dang-jifei-zhouqi-2026.md) |
 
 ## 平台横向对比（7）
 
@@ -158,3 +159,4 @@
 - 2026-09-13：**滚动期指南 5 篇**（天行IP 两档差价拆解/模拟器单窗口单IP 排查顺序/安卓客户端 HTTP 出站边界/奔富IP 价格表阅读顺序与单价拐点/抢单秒杀抖动与并发）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **128 篇（指南 70）**
 - 2026-09-14：**滚动期指南 5 篇**（沧海IP 天卡周卡月卡换算临界点/鲸云IP 免费测试流程与 30 次切换额度门槛/小火箭四条获取路径与线路变量/光梭IP 低价批量任务档位组合/IP 纯净度与可用性三层关系）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **133 篇（指南 75）**
 - 2026-09-15：**滚动期指南 5 篇**（免费节点三天留存率自测/客户端替换的三层归因/安装包真伪三条硬指标/新装客户端的三项离线自检/全球代理IP 档位临界点）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **138 篇（指南 80）**
+- 2026-09-16：**滚动期指南 5 篇**（鲸云IP 五档混买成本配比/光梭IP 两套凭证混用排查/糖果IP 可信度四项对照/糖果IP 后台分区定位/长城IP 5 元档边界与周期）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **143 篇（指南 85）**；同批修正鲸云IP 注册渠道码为 `i=degj`（原 `i=yb4y` 已失效）
