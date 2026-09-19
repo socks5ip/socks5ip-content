@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 153+ 篇**（注册 23 + 工具 6 + 指南 95 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 158+ 篇**（注册 23 + 工具 6 + 指南 100 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（95）
+## 选型与实战指南（100）
 
 | 分类 | 文章 |
 |---|---|
@@ -85,6 +85,7 @@
 | 主站新文对齐（9/16） | [鲸云IP 五档混买的成本配比](articles/guides/jingyunip-wudang-hunhe-goumai-chengben-2026.md) ｜ [光梭IP 两套凭证混用的排查顺序](articles/guides/guangsuoip-denglu-paicha-liangtao-pingzheng-2026.md) ｜ [糖果IP 可信度四项对照口径](articles/guides/tangguoip-kaopu-siziicha-2026.md) ｜ [糖果IP 后台两套分区定位](articles/guides/tangguoip-denglu-hou-fenqu-dingwei-2026.md) ｜ [长城IP 5 元档边界与计费周期](articles/guides/changchengip-5yuan-dang-jifei-zhouqi-2026.md) |
 | 主站新文对齐（9/17） | [烽迅IP 带宽与延迟的分界](articles/guides/fengxunip-daikuan-yanchi-fenjie-2026.md) ｜ [四类节点来源的成本与边界](articles/guides/jiedian-goumai-silei-qudao-chengben-2026.md) ｜ [shadowsocket 的三向对照](articles/guides/shadowsocket-sanzhong-zhiang-duizhao-2026.md) ｜ [退款条款与申诉顺序](articles/guides/dailiip-tuikuan-tiaokuan-shensu-shunxu-2026.md) ｜ [小猫PPTP 与长城IP 同源入口](articles/guides/xiaomaopptp-tongyuan-changcheng-kuxiong-2026.md) |
 | 主站新文对齐（9/18） | [光子IP 低价档可带窗口数分界](articles/guides/guangziip-dijia-dang-chuangkou-fenjiexian-2026.md) ｜ [全球代理IP 登录后台与域名分工](articles/guides/quanqiuip-denglu-houtai-yuming-paicha-2026.md) ｜ [JiuIP 比价前拉平四种计价口径](articles/guides/jiuip-bijia-sizhong-jijia-koujing-2026.md) ｜ [JiuIP 免费测试 450 条·小时怎么分配](articles/guides/jiuip-mianfei-edu-450-tiaoxiaoshi-fenpei-2026.md) ｜ [烽迅IP 扩容 1000 条的改善范围](articles/guides/fengxunip-kuorong-1000tiao-gaishan-fanwei-2026.md) |
+| 主站新文对齐（9/19） | [光梭IP 8 折渠道价拆解与 13 档差价排序](articles/guides/guangsuoip-8zhe-chaijia-13dang-2026.md) ｜ [JiuIP 测试卡 30 次怎么用](articles/guides/jiuip-ceshika-fukuanqian-yanshou-qingdan-2026.md) ｜ [代理IP 掉线的四层排查顺序](articles/guides/dailiip-diaoxian-siceng-paicha-2026.md) ｜ [蛟龙IP 2.8 元档与 L2TP 5 元起的分界](articles/guides/jiaolongip-28yuan-dang-linjiedian-2026.md) ｜ [老鱼加速器的三套账号归属](articles/guides/laoyu-denglu-rukou-sanchu-houtai-2026.md) |
 
 ## 平台横向对比（7）
 
@@ -164,3 +165,4 @@
 - 2026-09-16：**滚动期指南 5 篇**（鲸云IP 五档混买成本配比/光梭IP 两套凭证混用排查/糖果IP 可信度四项对照/糖果IP 后台分区定位/长城IP 5 元档边界与周期）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **143 篇（指南 85）**；同批修正鲸云IP 注册渠道码为 `i=degj`（原 `i=yb4y` 已失效）
 - 2026-09-17：**滚动期指南 5 篇**（烽迅IP 带宽与延迟分界/四类节点来源的成本与边界/shadowsocket 三向对照/代理IP 退款条款与申诉顺序/小猫PPTP 与长城IP 同源入口）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **148 篇（指南 90）**
 - 2026-09-18：**滚动期指南 5 篇**（光子IP 4 元档与 8 元档窗口数分界/全球代理IP 登录后台域名分工与四类报错/JiuIP 比价前的四种计价口径/JiuIP 免费测试 450 条·小时的分配法/烽迅IP 扩容 1000 条的改善范围）→ 与主站 5 篇/天 1:1 对齐，内容仓累计 **153 篇（指南 95）**
+- 2026-09-19：**滚动期指南 5 篇**（光梭IP 8 折渠道价与 13 档差价排序／JiuIP 测试卡 30 次的付款前验收清单／代理IP 掉线四层排查顺序／蛟龙IP 2.8 元档与 L2TP 5 元起的分界／老鱼加速器三套账号归属）→ 与主站 5 篇/天 1:1 对齐，其中 **2 篇为 9/17 候选积压回补**（光梭IP 靠谱度、JiuIP 测试卡），内容仓累计 **158 篇（指南 100）**
