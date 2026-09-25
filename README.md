@@ -5,6 +5,8 @@
 > **收录平台 23 家｜文章 183+ 篇**（注册 23 + 工具 6 + 指南 125 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
+> **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 18 家平台价格表）
+
 
 ## 注册入口指南（23 家）
 
