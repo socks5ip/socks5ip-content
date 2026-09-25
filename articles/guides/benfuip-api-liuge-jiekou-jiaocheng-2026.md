@@ -100,6 +100,13 @@ canonical: https://socks5ip.com.cn/guoneiip/benfuip/benfuip-api-liuge-jiekou-xia
 
 ## 七、官方入口与相关页面
 
+| 用途 | 入口 |
+|---|---|
+| 💰 **价格中心**（23 家平台套餐与免费测试额度横排） | [价格中心](https://socks5ip.com.cn/jiagezhongxin/) ｜ [国内外 IP 价格对照表](https://socks5ip.com.cn/dailiip-jiage-duibi/) |
+| 🚀 **聚合注册**（20+ 平台自助开通 / 续费 / 调换） | [一站式注册入口](https://linkdd.cn/socks5ip) ｜ [购买下载中心](https://socks5ip.com.cn/goumaixiazaizhongxin/) |
+| 🧪 **自测工具**（质量 / 线路 / 测速一页跑完） | [IP 综合检测中心](https://socks5ip.com.cn/ip-check-center/) ｜ [线路可用性检测](https://socks5ip.com.cn/proxy-check/) |
+| 🧰 **相关客户端教程**（配置与排查） | [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/) ｜ [代理IP知识库](https://socks5ip.com.cn/daili-ip-zhishiku/) |
+
 ## 常见问题
 
 **Q：六个接口里日常最常用的是哪一个？**
