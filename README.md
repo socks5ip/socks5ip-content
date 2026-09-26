@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 191+ 篇**（注册 23 + 工具 6 + 指南 133 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 199+ 篇**（注册 23 + 工具 6 + 指南 141 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（133）
+## 选型与实战指南（141）
 
 | 分类 | 文章 |
 |---|---|
@@ -92,6 +92,7 @@
 | 主站新文对齐（9/23） | [ST加速器三档的用途与限制分界](articles/guides/stjiasuqi-sanbanben-xianzhi-yongtu-fenjie-2026.md) ｜ [代理IP 月费四档与三样可变量](articles/guides/dailiip-yuefei-sidang-sanbianliang-2026.md) ｜ [皇冠海外IP 共享档与独享档的临界点](articles/guides/crown-gongxiang-duxiang-linjiedian-2026.md) ｜ [皇冠IP 登录入口与三串凭据的区别](articles/guides/crown-denglu-rukou-sanju-pingju-2026.md) ｜ [皇冠邀请码 adminA1 的载体与生效判断](articles/guides/crown-yaoqingma-adminA1-canzhi-shengxiao-2026.md) ｜ *其中 1 篇为 9/22 候选积压回补* |
 | 主站新文对齐（9/24） | [ST加速器推荐 ID 生效与结算价对账](articles/guides/stjiasuqi-yaoqingma-shengxiao-jiesuanjia-duizhang-2026.md) ｜ [IP 黑名单三类库的分工与免登录自查](articles/guides/ip-heimingdan-sanlei-ku-fenlei-chaxun-2026.md) ｜ [五类业务该配几元的线路：先数三个数](articles/guides/wulei-yewu-ip-xuanxing-sange-shu-2026.md) ｜ [代理IP 连不上先测再换：两类问题分流](articles/guides/dailiip-lianbushang-jiace-fenliu-paicha-2026.md) ｜ [奔富IP API 六个接口：一个读五个改](articles/guides/benfuip-api-liuge-jiekou-jiaocheng-2026.md) ｜ *其中 2 篇为 9/21–9/22 候选积压回补* |
 | 主站新文对齐（9/25） | [糖果IP 六档差价买的是什么](articles/guides/tangguoip-liudang-chajia-mai-shenme-2026.md) ｜ [免费代理能用多久？三类来源的出口归属](articles/guides/mianfeidailiip-sanlei-laiyuan-shixiao-guize-2026.md) ｜ [皇冠免费测试额度怎么领](articles/guides/crown-mianfei-ceshi-edu-bianjie-2026.md) ｜ [代理IP 渠道价与 20 多家入口](articles/guides/dailiip-qudaojia-20jia-rukou-zonglan-2026.md) ｜ [按天还是按月？两个除法算临界点](articles/guides/dailiip-jifei-fangshi-linjiedian-lianggefangfa-2026.md) ｜ [极驰云登录入口与根域名](articles/guides/jichiyunip-denglu-rukou-genyuming-2026.md) ｜ [55游真隔离怎么验](articles/guides/55you-zhenjige-liangtiaoxianlu-yanzheng-2026.md) ｜ [便宜和贵的代理IP 差在哪](articles/guides/dailiip-bianyi-gui-chajia-sanjianshi-2026.md) ｜ *其中 4 篇为 9/23–9/24 候选积压回补* |
+| 主站新文对齐（9/26） | [登录名不是你注册时填的手机号](articles/guides/fengxunip-denglu-ming-bushi-shoujihao-pingju-2026.md) ｜ [三款客户端的三条接管路线](articles/guides/postern-sstap-nekobox-jieguan-luxian-xuanxing-2026.md) ｜ [烽迅IP 下单前的三步核对](articles/guides/fengxunip-kaopu-zhuti-sanbu-hedui-2026.md) ｜ [同一个登录页，两条路为什么只堵一条](articles/guides/55you-denglu-shuanglujing-yanzheng-2026.md) ｜ [无双IP 7.5 元档多付的 2.2 元](articles/guides/wushuangip-75dang-duofu-2dian2-2026.md) ｜ [同价不同货：比价前先归类](articles/guides/jichiyunip-bijia-tongge-guilei-2026.md) ｜ [「静态」在报价单里的三种含义](articles/guides/jingtaizhuzhaiip-bubian-sanceng-koujing-2026.md) ｜ [忘记密码该去哪一层重置](articles/guides/dailiip-zhanghao-sanceng-wangji-mima-2026.md) ｜ *其中 4 篇为 9/24–9/25 候选积压回补* |
 
 ## 平台横向对比（7）
 
@@ -178,3 +179,4 @@
 - 2026-09-23（晚）：**滚动期指南 5 篇**（ST加速器三档的用途与限制分界／代理IP 月费四档与三样可变量／皇冠海外IP 共享档与独享档的临界点／皇冠IP 登录入口与三串凭据的区别／皇冠邀请码 adminA1 的载体与生效判断）→ 与主站 5 篇/天 1:1 对齐，其中 **1 篇为 9/22 候选积压回补**（ST加速器三档选型），内容仓累计 **178 篇（指南 120）**
 - 2026-09-24（晚）：**滚动期指南 5 篇**（ST加速器推荐 ID 生效与结算价对账／IP 黑名单三类库的分工与免登录自查写法／五类业务选配线路的三个数／代理IP 连不上先测再换的两类分流／奔富IP API 六个接口的一读五改）→ 与主站 5 篇/天 1:1 对齐，其中 **2 篇为 9/21–9/22 候选积压回补**（ST加速器推荐 ID 生效、IP 黑名单查询；前者为 9/21 发布的 3 天极旧条目，按规则排在批次第 1 篇），内容仓累计 **183 篇（指南 125）**
 - 2026-09-25（晚）：**滚动期指南 8 篇**（糖果IP 六档差价买的是什么／免费代理能用多久·三类来源的出口归属／皇冠免费测试额度怎么领／代理IP 渠道价与 20 多家入口／按天还是按月·两个除法算临界点／极驰云登录入口与根域名／55游真隔离怎么验／便宜和贵的代理IP 差在哪）→ **产能由 5 篇/天 提升到 8 篇/天（A371）**，其中 **4 篇为 9/23–9/24 候选积压回补**（糖果IP 档位差价、免费代理长期可用性、皇冠免费测试边界、渠道价入口汇总），内容仓累计 **191 篇（指南 133）**
+- 2026-09-26（晚）：**滚动期指南 8 篇**（登录名不是你注册时填的手机号／三款客户端的三条接管路线／烽迅IP 下单前的三步核对／同一个登录页·两条路为什么只堵一条／无双IP 7.5 元档多付的 2.2 元／同价不同货·比价前先归类／「静态」在报价单里的三种含义／忘记密码该去哪一层重置）→ 与主站 1:1 对齐并维持 8 篇/天（A371），其中 **4 篇为 9/24–9/25 候选积压回补**（烽讯登录入口与登录名、客户端三选一、烽迅IP 靠谱度、55游登录入口），内容仓累计 **199 篇（指南 141）**
