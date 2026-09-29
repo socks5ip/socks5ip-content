@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 224+ 篇**（注册 23 + 工具 6 + 指南 152 + 基础科普 14 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 230+ 篇**（注册 23 + 工具 6 + 指南 152 + 基础科普 20 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -96,9 +96,9 @@
 | 主站新文对齐（9/27） | [极驰云导出格式与客户端对接](articles/guides/jichiyun-daochu-geshi-kehuanduan-2026.md) ｜ [住宅 IP 买固定的还是买轮换的](articles/guides/zhuzhaiip-guding-lunhuan-xuanxing-2026.md) ｜ [中途升带宽前先算剩余天数](articles/guides/dailiip-shengji-daikuan-yuanyu-tianshu-2026.md) ｜ [跨境店铺的网络环境·第一笔钱该花在哪一段](articles/guides/kuajingdianpu-wangluo-huanjing-jieduan-2026.md) ｜ [抖音小店出口条数按什么数](articles/guides/douyinxiaodian-chukou-tiaoshu-suanfa-2026.md) ｜ [无忧IP 四档会员多押的钱几个月回本](articles/guides/wuyouip-menshikan-huiben-yueshu-2026.md) ｜ *其中 1 篇为 9/26 候选积压回补（极驰云靠谱吗），当天候选取尽即止，共 6 篇* |
 | 主站新文对齐（9/28） | [蛟龙IP 装完连不上：两条协议线的凭据别混填](articles/guides/jiaolongip-zhuce-yu-windows-liangtiao-xian-2026.md) ｜ [光梭IP 每天 5 条免费测试，先测哪几项才不白花](articles/guides/guangsuoip-meitian-wutiao-ceshi-paice-2026.md) ｜ [奔富IP 的体验期按天发，三天该怎么排](articles/guides/benfuip-mianfeiceshi-antian-paice-2026.md) ｜ [把切换额度放进分母，月费最低的那档反而更贵](articles/guides/dailiip-an-yewu-zhesuan-qiehuan-danjia-2026.md) ｜ [代理IP 测速只看一个数字，等于没测](articles/guides/dailiip-cesu-sige-liang-duqu-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 
-## 基础科普与工具教程（14）
+## 基础科普与工具教程（20）
 
-基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
+基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
 
 | 文章 | 说明 | 原文（canonical） |
 |---|---|---|
@@ -116,6 +116,12 @@
 | [IP 池越大越好吗：可用率比数量更值钱](articles/basics/dailiip-chiguimo-vs-keyonglv-2026.md) | 可用率算法、大池隐性代价与可自查三指标 | https://baizhaowang.socks5ip.com.cn/duokai/ |
 | [海外独享线路贵在哪：三个成本项](articles/basics/dailiip-haiwai-duxiang-sange-chengben-2026.md) | 跨境带宽 / 独享占用 / 国家覆盖三项拆解与折算 | https://crownip.socks5ip.com.cn/jiage/ |
 | [网上的免费代理为什么不能用](articles/basics/dailiip-gongwang-mianfei-daili-fengxian-2026.md) | 成本转移路径、三类风险与官方试用的区别 | https://jiaolongip.socks5ip.com.cn/mianfei/ |
+| [静态 IP 还是动态 IP：先看清业务要不要固定身份](articles/basics/dailiip-jingtai-vs-dongtai-chukou-shenfen-2026.md) | 判断轴、动态线路的两个隐性代价与静态的三处拖累 | https://fengxun.socks5ip.com.cn/qiehuan/ |
+| [一条代理线路的并发上限：三个量先算清](articles/basics/dailiip-bingfa-shangxian-sange-liang-2026.md) | 带宽 / 连接数 / 超时容忍度与从需求反推档位 | https://youzhongip.socks5ip.com.cn/zhuanxian/ |
+| [从零接入一条线路：软路由与单机客户端怎么选](articles/basics/dailiip-luyouqi-vs-kehuduan-jieru-2026.md) | 三层接入分工、两种方案取舍与接入后三步验证 | https://tianjiip.socks5ip.com.cn/gongju/ |
+| [换 IP 并不能解决封号：风控看的其实是行为特征](articles/basics/dailiip-huanip-vs-fenghao-xingwei-2026.md) | 四层风控信号、四类触发操作与止损顺序 | https://tangguoip.socks5ip.com.cn/xianzhi/ |
+| [同一档线路，按天买和按月买差多少：一次折算清楚](articles/basics/dailiip-jifei-zhouqi-zhesuan-2026.md) | 三种计费周期的折算口径与按任务长度选周期 | https://jichiyun-ip.socks5ip.com.cn/jiage/ |
+| [平台给的免费测试额度，怎么测才算没浪费](articles/basics/dailiip-mianfei-ceshi-yanzheng-sanxiang-2026.md) | 三项必测、三个误区与从测试结论到选档 | https://wuyou-ip.socks5ip.com.cn/jiaocheng/ |
 
 ## 平台横向对比（7）
 
@@ -208,3 +214,4 @@
 - 2026-09-29：**新增「基础科普与工具教程」分类 2 篇**（代理 IP 的「出身」：IP 段与 ASN 基础／代理协议选好后仍不通：端口与鉴权的三个落点，与子站新页同题不同文）→ 内容仓累计 **212 篇**；本分类 `canonical` 指向**子站原文**（沧海IP），独立存放于 `articles/basics/`，与「指南」镜像主站的口径分开
 - 2026-09-29（第二批 · 外站线扩至 6 个品牌子站）：**「基础科普与工具教程」扩至 8 篇**（新增：计价单位四种 / 带宽与条数两条入口 / 城市节点归属地核验 / 单窗口单 IP 隔离 / 线路池 API 调度 / 海外节点三步核验），`canonical` 分别指向**6 个品牌子站原文**（奔富IP / 光梭IP / 天行IP / 无双IP / 鲸云IP / 全球代理IP）→ 内容仓累计 **218 篇**
 - 2026-09-29（第三批 · 外站线扩至 12 个品牌子站）：**「基础科普与工具教程」扩至 14 篇**（新增：独享与共享出口 / 三个数字判断快慢 / 短效与长效存活时长 / IP 池规模与可用率 / 海外独享的三个成本项 / 免费代理的风险），`canonical` 分别指向**6 个品牌子站原文**（55游IP / 光子IP / 畅游IP / 百兆王 / CROWN皇冠IP / 蛟龙IP）→ 内容仓累计 **224 篇**
+- 2026-09-29（第四批 · 外站线扩至 18 个品牌子站）：**「基础科普与工具教程」扩至 20 篇**（新增：静态与动态出口的取舍 / 并发上限的三个量 / 软路由与客户端接入 / 换 IP 与封号 / 计费周期折算 / 免费测试该测什么），`canonical` 分别指向**6 个品牌子站原文**（烽讯IP / 糖果IP / 天机IP / 优众IP / 极驰云IP / 无忧IP）→ 内容仓累计 **230 篇**
