@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 240 篇**（注册 23 + 工具 6 + 指南 162 + 基础科普 20 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 245 篇**（注册 23 + 工具 6 + 指南 167 + 基础科普 20 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（162）
+## 选型与实战指南（167）
 
 | 分类 | 文章 |
 |---|---|
@@ -97,6 +97,7 @@
 | 主站新文对齐（9/28） | [蛟龙IP 装完连不上：两条协议线的凭据别混填](articles/guides/jiaolongip-zhuce-yu-windows-liangtiao-xian-2026.md) ｜ [光梭IP 每天 5 条免费测试，先测哪几项才不白花](articles/guides/guangsuoip-meitian-wutiao-ceshi-paice-2026.md) ｜ [奔富IP 的体验期按天发，三天该怎么排](articles/guides/benfuip-mianfeiceshi-antian-paice-2026.md) ｜ [把切换额度放进分母，月费最低的那档反而更贵](articles/guides/dailiip-an-yewu-zhesuan-qiehuan-danjia-2026.md) ｜ [代理IP 测速只看一个数字，等于没测](articles/guides/dailiip-cesu-sige-liang-duqu-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（9/29） | [代理IP 和机场订阅差在哪：两个分母不能横着比](articles/guides/dailiip-jichang-dingyue-qubie-2026.md) ｜ [两台设备共用一条线路，卡的是授权那一栏](articles/guides/dailiip-liangtai-shebei-gongyong-xianlu-2026.md) ｜ [20 家拼多多店的出口账单，45 到 100 元之间](articles/guides/pinduoduo-dianqun-chukou-tiaoshu-yusuan-2026.md) ｜ [直播和短视频账号换 IP：属地只认出口](articles/guides/zhibo-duanshipin-zhanghao-huanip-shudi-2026.md) ｜ [天行IP 那 10 次测试卡先测什么](articles/guides/tianxingip-ceshika-shiyong-ce-shenme-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（9/30） | [两个客户端都亮着灯，出口却只有一个](articles/guides/jiasuqi-dailiip-luyou-chongtu-wubu-paicha-2026.md) ｜ [覆盖 700 个地区，不等于能选到那座城](articles/guides/dailiip-zhiding-chengshi-diqu-nengli-2026.md) ｜ [票面只认实付：企业采购代理IP 的发票怎么处理](articles/guides/dailiip-fapiao-kaipiao-zhuti-caigou-2026.md) ｜ [预付之前能自己核对的四件事](articles/guides/dailiip-yufu-chongzhi-qian-sizicha-2026.md) ｜ [沧海 10 次测试卡怎么分区花](articles/guides/canghaiip-ceshika-fenqu-fenpei-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
+| 主站新文对齐（10/1） | [并发数、线程数与提取频率分属三层](articles/guides/dailiip-bingfashu-lianjieshu-xiancheng-tiqupinlv-2026.md) ｜ [换完出口之后登录态会掉吗](articles/guides/huan-ip-hou-denglu-zhuangtai-sanceng-bangding-2026.md) ｜ [付款之后节点列表为什么还是空的](articles/guides/dailiip-fukuan-hou-shengxiao-tihuo-sanguan-2026.md) ｜ [做代理赚的是哪一份差价](articles/guides/dailiip-jiameng-398-zhekou-huiben-danshu-2026.md) ｜ [光子IP 那两笔白测额度先花在哪](articles/guides/guangziip-mianfeiceshika-xianpao-naxiang-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 
 ## 基础科普与工具教程（20）
 
@@ -219,3 +220,4 @@
 - 2026-09-29（第四批 · 外站线扩至 18 个品牌子站）：**「基础科普与工具教程」扩至 20 篇**（新增：静态与动态出口的取舍 / 并发上限的三个量 / 软路由与客户端接入 / 换 IP 与封号 / 计费周期折算 / 免费测试该测什么），`canonical` 分别指向**6 个品牌子站原文**（烽讯IP / 糖果IP / 天机IP / 优众IP / 极驰云IP / 无忧IP）→ 内容仓累计 **230 篇**
 - 2026-09-29（晚 · 主站新文对齐）：**滚动期指南 5 篇**（代理IP 与机场订阅的两套计价口径／两台设备共用一条线路的授权与接法／拼多多店群的出口条数与账单／直播与短视频账号换 IP 的属地规则／天行IP 10 次测试卡的测试顺序）→ 维持 8 篇/天配额（A371），本次候选窗口内**积压 0 条**（9/26 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 9/26 的 1 条 → 9/27 归零 → 本次维持 0），内容仓累计 **235 篇（指南 157）**
 - 2026-09-30（晚 · 主站新文对齐）：**滚动期指南 5 篇**（加速器与代理客户端抢默认路由的冲突排查／地区覆盖与可指定性的口径差别及切换额度成本／企业采购的发票主体与实付票面／预付前的四项自查与协议迁移成本／沧海 10 次测试卡的分区分配）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **240 篇（指南 162）**
+- 2026-10-01（晚 · 主站新文对齐）：**滚动期指南 5 篇**（并发数/线程数/连接数/提取频率的三层归属与超限归因／换出口后登录态是否失效与三套账号的分野／付款到能用的三道关与各平台免费额度的五种发放方式／加盟费 398 元与三档拿货折扣的回本测算／光子IP 十次测试卡的分配顺序与工具档位匹配）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **245 篇（指南 167）**
