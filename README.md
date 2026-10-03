@@ -39,7 +39,7 @@
 | [烽讯加速器](articles/register/fengxunjiasuqi.md) | 2.6 元/月 | SOCKS5/L2TP | `adminA1` | [注册](https://www.fengxunip.com/user/login?p=adminA1) |
 | [极驰云IP](articles/register/jichiyunip.md) | 6 元/月 | SOCKS5/L2TP/HTTP | `D06B9941...` | [注册](https://www.jichiy.com/views/login.html#?promotionCode=D06B99413C764A8B8DB7EBFC901A5C85) |
 | [ST加速器](articles/register/stjiasuqi.md) | 12 元/月 | SOCKS5/L2TP/HTTP | `93904482` | [注册](http://www.souta.com/?c=93904482) |
-| [酷熊IP](articles/register/kuxiongip.md) | 20 元/月 | SOCKS5/L2TP/PPTP | `l9avX8dG` | [注册](https://user.kuxiongip.com/register?promotionCode=l9avX8dG) |
+| [酷熊IP](articles/register/kuxiongip.md) | 20 元/月 | SOCKS5/L2TP/PPTP | `l9avX8dG` | [注册](https://user.kuxiongip.com/register?promoteCode=l9avX8dG) |
 | [天机IP](articles/register/tianjiip.md) | 6 元/月 | SOCKS5/HTTP/L2TP | `adminA0` | [注册](http://www.tianjiip.com/#/register?invitation=adminA0&shareid=62) |
 | [蛟龙加速器](articles/register/jiaolongjiasuqi.md) | 2.8 元/月 | SOCKS5 | `adminA1` | [注册](https://jiaolongip.com/user/login?p=adminA1&code=adminA1) |
 | [优享云IP](articles/register/youxiangyunip.md) | 6 元/月 | SOCKS5/L2TP | `adminA0` | [注册](http://www.yxyip.com/home/registration.php?t=adminA0) |
