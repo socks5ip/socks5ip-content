@@ -65,7 +65,7 @@ PPTP 线路最容易「看着连上了、实际没通」，按顺序验一遍再
 | 用途 | 长城IP | 酷熊IP |
 |---|---|---|
 | 💰 **价格表** | [长城IP 代理套餐价格表](https://socks5ip.com.cn/guoneiip/changchengipjiagebiao/) | [酷熊IP 加速器价格表](https://socks5ip.com.cn/guoneiip/kuxiongipjiage/) |
-| 🚀 **官方注册** | [长城IP 注册入口（邀请码 `FS5ErERm`）](https://user.ccpptp.com/register?invitation_code=FS5ErERm) | [酷熊IP 注册入口（邀请码 `l9avX8dG`）](https://user.kuxiongip.com/register?promotionCode=l9avX8dG) |
+| 🚀 **官方注册** | [长城IP 注册入口（邀请码 `FS5ErERm`）](https://user.ccpptp.com/register?invitation_code=FS5ErERm) | [酷熊IP 注册入口（邀请码 `l9avX8dG`）](https://user.kuxiongip.com/register?promoteCode=l9avX8dG) |
 | 📖 **使用教程** | [长城IP 购买使用教程](https://socks5ip.com.cn/guoneiip/changchengipgoumaijiaocheng/) | [酷熊IP 使用教程](https://socks5ip.com.cn/guoneiip/kuxiongipshiyongjiaocheng/) |
 | 🔍 **自测工具** | [IP 综合检测中心](https://socks5ip.com.cn/ip-check-center/) ｜ [代理线路可用性检测](https://socks5ip.com.cn/proxy-check/) | 同左 |
 | 🛒 一站式注册 | [聚合注册中心](https://linkdd.cn/socks5ip) | 同左 |
