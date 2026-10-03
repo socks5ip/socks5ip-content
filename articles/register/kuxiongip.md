@@ -13,7 +13,7 @@ canonical: https://socks5ip.com.cn/guoneiip/kuxiongipjiage/
 
 | 项目 | 信息 |
 |---|---|
-| **官方注册链接** | https://user.kuxiongip.com/register?promotionCode=l9avX8dG |
+| **官方注册链接** | https://user.kuxiongip.com/register?promoteCode=l9avX8dG |
 | **邀请码 / 推荐码** | `l9avX8dG` |
 | **起价** | 20 元/月 |
 | **支持协议** | SOCKS5 / L2TP / PPTP |
