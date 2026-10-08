@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 288 篇**（注册 23 + 工具 6 + 指南 204 + 基础科普 26 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 312 篇**（注册 23 + 工具 6 + 指南 204 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -106,9 +106,9 @@
 | 主站新文对齐（10/7） | [连不上先量本机端口水位·三层分流与四个报错对号](articles/guides/dailiip-benji-duankou-yongjin-paicha-2026.md) ｜ [长城IP 登录入口·只有一个域名能通](articles/guides/changchengip-denglu-rukou-zhiyu-paicha-2026.md) ｜ [长城IP 邀请码为什么不让你手填](articles/guides/changchengip-yaoqingma-zhidu-xianshi-2026.md) ｜ [酷熊IP 和谁才算同类·按货型对齐再比价](articles/guides/kuxiongip-tonglei-pingtai-huoxing-duiqi-2026.md) ｜ [金币、积分与两套余额怎么读](articles/guides/dailiip-jinbi-jifen-liangtao-yue-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/8） | [静态与动态混用·分组怎么建才不烧额度](articles/guides/dailiip-jingtai-dongtai-hunyong-fenzu-guanli-2026.md) ｜ [NekoBox 电脑端·两条全局接管路线](articles/guides/nekobox-diannaoduanwindows-liangtiao-quanju-2026.md) ｜ [NekoBox 单窗口单IP 的粒度边界](articles/guides/nekobox-danchuangkou-danip-jiexian-zai-yiceng-2026.md) ｜ [长城IP 5 元档与客服报单流程](articles/guides/changchengip-5yuan-dang-baodan-liucheng-2026.md) ｜ [SSTap 支持 L2TP 吗·三条替代路线](articles/guides/sstap-l2tp-zhichi-ma-tidai-luxian-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 
-## 基础科普与工具教程（26）
+## 基础科普与工具教程（50）
 
-基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP、JiuIP、酷熊IP、ST加速器、优享云IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
+基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP、JiuIP、酷熊IP、ST加速器、优享云IP、皇冠海外IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
 
 | 文章 | 说明 | 原文（canonical） |
 |---|---|---|
@@ -138,6 +138,30 @@
 | [没有免费测试怎么试：天卡与月卡的先后顺序](articles/basics/dailiip-wu-mianfei-ceshi-shishui-shunxu-2026.md) | 试水三步、可跳过的情形与周期选择的隐性成本 | https://youxiangyunip.socks5ip.com.cn/shishui/ |
 | [同样是几个区：价格相近却差在用途](articles/basics/dailiip-tongjia-butonghuo-fenqu-xuanxing-2026.md) | 线路性质/带宽上限/适用业务三项与下单前必确认三件事 | https://canghai.socks5ip.com.cn/xuanqu/ |
 | [电脑端、安卓端与 Socks5 端该怎么选](articles/basics/dailiip-sanduan-jieru-fangshi-xuanze-2026.md) | 三种接法的控制范围、按设备数量选型与冲突排查 | https://baizhaowang-ip.socks5ip.com.cn/duan |
+| [外服游戏延迟突然飙高：本机、线路、游戏服三段怎么定位](articles/basics/dailiip-waifu-yanshi-sanduan-dingwei-2026.md) | 本机·线路·游戏服三段测法与排查顺序 | https://55u.socks5ip.com.cn/waifu/ |
+| [带宽、条数、并发：三个数字读错一个，档位就选歪](articles/basics/dailiip-guige-sange-shuzi-duma-2026.md) | 三个规格数字的量纲、误读与从业务反推 | https://6nn.socks5ip.com.cn/guige/ |
+| [代理客户端的安装包该从哪下：三个来源的风险差在哪](articles/basics/dailiip-kehuduan-xiazai-laiyuan-hedui-2026.md) | 三个下载来源、安装包做手脚的后果与三步核对 | https://benfu.ip.socks5ip.com.cn/kehuduan/ |
+| [线路稳不稳，折算成一天丢掉的请求数才看得清](articles/basics/dailiip-wending-zhesuan-ri-sunshi-2026.md) | 采样口径、抖动折算法与容忍边界 | https://guangsuo.socks5ip.com.cn/wendingxing/ |
+| [海外 IP 能连上，不等于能用：先划清三条合规边界](articles/basics/dailiip-haiwai-hegui-santiao-bianjie-2026.md) | 业务·平台·数据三条边界与下单前自查 | https://huangguan.socks5ip.com.cn/hegui/ |
+| [五档套餐里最贵那档，未必适合你的业务](articles/basics/dailiip-wudang-zui-gui-wei-bi-shihe-2026.md) | 线路性质/地区/适用业务三项与选错三情形 | https://jingyun.socks5ip.com.cn/wudang/ |
+| [一条 IP 一天能换几次：按卡种与频率倒推条数](articles/basics/dailiip-qiehuan-cishu-tiaoshu-daotui-2026.md) | 卡种切换规则、倒推条数与集中切换两类限制 | https://jiaolong-ip.socks5ip.com.cn/cishu/ |
+| [A–H 八个套餐，原价与折后价到底差在哪](articles/basics/dailiip-badang-yuanjia-zhehoujia-2026.md) | 八档原价·折后价·差额与选档盯哪一项 | https://guangzi-ip.socks5ip.com.cn/jiage/ |
+| [换了台电脑，代理线路要重新配吗：迁移照三步走](articles/basics/dailiip-huan-shebei-qianyi-sanbu-2026.md) | 账号侧确认、参数搬迁与出口复核三步 | https://benfu.socks5ip.com.cn/banjia |
+| [标称 10M 的线路，实测能跑几成：三步验一遍](articles/basics/dailiip-biaocheng-daikuan-shice-sanbu-2026.md) | 测试方法/时段/目标三步与三类假数据 | https://fengxunip.socks5ip.com.cn/shice/ |
+| [按条买还是按台买：同一笔预算的两条路线怎么挑](articles/basics/dailiip-antiao-vs-antai-liangluxian-2026.md) | 两条计费逻辑、适配业务与两个混用坑 | https://benfujiasuqi.socks5ip.com.cn/jifei/ |
+| [节点不是越多越好：轮换做错了，反而更容易被盯上](articles/basics/dailiip-jiedian-lunhuan-sanwufa-2026.md) | 三类轮换误区、按业务分层与何时该慢下来 | https://quanqiuip.socks5ip.com.cn/lunhuan/ |
+| [拿到 IP 之后第一步：把线路提取这一环做对](articles/basics/dailiip-xianlu-tiqu-sanduan-liucheng-2026.md) | 两类线路提取三步、失败三因与连通检查顺序 | https://benfu-ip.socks5ip.com.cn/jiaocheng/ |
+| [400+ 地区怎么选怎么切：日额度有限时的用法](articles/basics/dailiip-diqu-400-duan-emian-guihua-2026.md) | 地区分组、切换顺序与地区规划清单 | https://tangguo-ip.socks5ip.com.cn/diqu/ |
+| [20M 与「峰值 100M」别搞混：带宽口径怎么读](articles/basics/dailiip-daikuan-koujing-fengzhi-qubie-2026.md) | 稳定值与峰值区别、三个必问与口径对照 | https://tianji.socks5ip.com.cn/daikuan/ |
+| [日卡、周卡、月卡都折算成日成本，差距有多大](articles/basics/dailiip-zhouqi-rikachengben-zhesuan-2026.md) | 日均折算算法、哪几档只有月卡与跑不满周期 | https://guangzi.socks5ip.com.cn/zhouqi/ |
+| [30 元/月的视频档值不值：大带宽三档怎么对号](articles/basics/dailiip-shipindang-dakuandai-sandang-2026.md) | 大带宽三档对照、真需要与假需要与倒推带宽 | https://jiaolong.socks5ip.com.cn/shipin/ |
+| [都叫住宅 IP，纯净度可能差很远：三步分辨](articles/basics/dailiip-zhuzhai-chunjingdu-sanbu-fenbian-2026.md) | 静态与住宅差异、纯净度含义与三步检测 | https://tianxing.socks5ip.com.cn/chunjing/ |
+| [线路好不好怎么测：时延、丢包、带宽三项实测](articles/basics/dailiip-xianlu-zhiliang-sanci-shice-2026.md) | 三项测法、达标参考与矛盾时的取舍 | https://tangguo.socks5ip.com.cn/shice/ |
+| [四档线路版本怎么选：国内、游戏、优选、住宅对照](articles/basics/dailiip-sidang-xianlu-banben-duizhao-2026.md) | 四档定位、按业务倒推与三种选错 | https://wushuang-ip.socks5ip.com.cn/banben/ |
+| [两个 7.2 元档怎么选：同价不同线路的判断法](articles/basics/dailiip-tongjia-liangdang-quyu-panduan-2026.md) | 同价差异、三个必问与同价取舍顺序 | https://youzhong.socks5ip.com.cn/quyu/ |
+| [130GB 的月卡够用吗：流量额度怎么估](articles/basics/dailiip-liuliang-edu-130gb-gusuan-2026.md) | 单次到日的估算、周期重置与超量风险 | https://wushuang.socks5ip.com.cn/liuliang/ |
+| [静态还是动态线路：按业务选，不用纠结](articles/basics/dailiip-jingtai-dongtai-an-yewu-xuan-2026.md) | 两者根本差别、各自适配业务与选错症状 | https://wushuangdaili.socks5ip.com.cn/xuanxian/ |
+| [99.99% 的可用率怎么理解：口径、自测与预期](articles/basics/dailiip-keyonglv-koujing-zice-2026.md) | 可用率口径、自测三步与合理预期 | https://yxyip.socks5ip.com.cn/keyonglv/ |
 
 ## 平台横向对比（7）
 
@@ -242,3 +266,4 @@
 - 2026-10-07（晚 · 主站新文对齐）：**滚动期指南 5 篇**（代理IP 突然连不上的三层分流·本机临时端口/TIME_WAIT/文件描述符三处口径与四个报错对号／长城IP 登录入口只有一个子域能通·两个登录 Tab 与四张预置弹窗／长城IP 邀请码只读显示·链接参数与客服报单格式分属两个系统／酷熊IP 同类平台的按货型对齐三问筛选法与切换额度隐性成本／代理平台金币、积分与 SK5／L2TP 两套余额的三层读法）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **277 篇（指南 199）**
 - 2026-10-08（第五批 · 外站线扩至 24 个子站 / 23 个品牌）：**「基础科普与工具教程」扩至 26 篇**（新增：金币计价的单位换算 / 出口落点核验流程 / 四类设备参数对照 / 没有免费测试时的试水顺序 / 同价不同货的分区取舍 / 电脑端·安卓端·Socks5 三端怎么选），`canonical` 分别指向**6 个子站原文**（JiuIP / 酷熊IP / ST加速器 / 优享云IP / 沧海IP / 百兆王IP）→ 内容仓累计 **283 篇**
 - 2026-10-08（晚 · 主站新文对齐）：**滚动期指南 5 篇**（静态与动态混用的三层边界·两套计费口径与天卡月卡平衡点·奔富与百兆王的后台分组建法／NekoBox 电脑端的两个同名项目与系统代理、虚拟网卡两条接管路线／NekoBox 单窗口单IP 的粒度边界与电脑端三类替代工具／长城IP 5 元档的禁用视频边界·报单六字段与 SSTP 协议口径／SSTap 不支持 L2TP 的两类协议分野与系统拨号、软路由、换客户端三条替代路线）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **288 篇（指南 204）**
+- 2026-10-09（第六批 · 外站线扩至 48 个子站）：**「基础科普与工具教程」扩至 50 篇（一次新增 24 篇）**（延迟三段定位／规格三数字／客户端下载来源核对／波动折算日损失／海外三条合规边界／五档选型／切换次数倒推／A–H 原价折后对照／换设备迁移／标称带宽实测／按条与按台／轮换三误区／线路提取／地区分组／带宽口径／周期折算／视频档大带宽／住宅纯净度／线路质量三项／四档版本／同价两档／流量额度／静态动态／可用率口径），`canonical` 分别指向**24 个子站原文** → 内容仓累计 **312 篇**
