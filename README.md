@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 277 篇**（注册 23 + 工具 6 + 指南 199 + 基础科普 20 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 283 篇**（注册 23 + 工具 6 + 指南 199 + 基础科普 26 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -105,9 +105,9 @@
 | 主站新文对齐（10/6） | [换了代理 IP，本机地址为什么还会被看到·三条通道自查](articles/guides/dailiip-zhenshi-dizhi-baolu-santiao-tongdao-2026.md) ｜ [酷熊IP 贵在哪·三件能自己核的事](articles/guides/kuxiongip-duibukou-san-jian-zihe-shi-2026.md) ｜ [酷熊两个后台·账号为什么互不相通](articles/guides/kuxiongip-shuang-denglukou-paicha-2026.md) ｜ [酷熊的邀请码藏在哪里](articles/guides/kuxiongip-yaoqingma-promotecode-wei-zhi-2026.md) ｜ [光子IP 的协议为什么跟着套餐走](articles/guides/guangziip-xieyi-gen-taocan-zou-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/7） | [连不上先量本机端口水位·三层分流与四个报错对号](articles/guides/dailiip-benji-duankou-yongjin-paicha-2026.md) ｜ [长城IP 登录入口·只有一个域名能通](articles/guides/changchengip-denglu-rukou-zhiyu-paicha-2026.md) ｜ [长城IP 邀请码为什么不让你手填](articles/guides/changchengip-yaoqingma-zhidu-xianshi-2026.md) ｜ [酷熊IP 和谁才算同类·按货型对齐再比价](articles/guides/kuxiongip-tonglei-pingtai-huoxing-duiqi-2026.md) ｜ [金币、积分与两套余额怎么读](articles/guides/dailiip-jinbi-jifen-liangtao-yue-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 
-## 基础科普与工具教程（20）
+## 基础科普与工具教程（26）
 
-基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
+基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP、JiuIP、酷熊IP、ST加速器、优享云IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
 
 | 文章 | 说明 | 原文（canonical） |
 |---|---|---|
@@ -131,6 +131,12 @@
 | [换 IP 并不能解决封号：风控看的其实是行为特征](articles/basics/dailiip-huanip-vs-fenghao-xingwei-2026.md) | 四层风控信号、四类触发操作与止损顺序 | https://tangguoip.socks5ip.com.cn/xianzhi/ |
 | [同一档线路，按天买和按月买差多少：一次折算清楚](articles/basics/dailiip-jifei-zhouqi-zhesuan-2026.md) | 三种计费周期的折算口径与按任务长度选周期 | https://jichiyun-ip.socks5ip.com.cn/jiage/ |
 | [平台给的免费测试额度，怎么测才算没浪费](articles/basics/dailiip-mianfei-ceshi-yanzheng-sanxiang-2026.md) | 三项必测、三个误区与从测试结论到选档 | https://wuyou-ip.socks5ip.com.cn/jiaocheng/ |
+| [金币计价怎么算：把虚拟单位换算成真实成本](articles/basics/dailiip-jinbi-jijia-danwei-dansuan-2026.md) | 计价单位来源、三步换算与条数×次数两个维度 | https://jiu-ip.socks5ip.com.cn/jinbi/ |
+| [选了城市却落在别处：出口归属地怎么核验](articles/basics/dailiip-chukou-luodian-heyan-liucheng-2026.md) | 选择/分配/标注三层关系与可重复的核验流程 | https://kuxiong-ip.socks5ip.com.cn/jingzhun |
+| [同一个代理，四类设备参数填在哪](articles/basics/dailiip-silei-shebei-canshu-duizhao-2026.md) | 桌面端/安卓/软路由/脚本四处位置与上线前自检顺序 | https://stjiasuqi-ip.socks5ip.com.cn/pingtai |
+| [没有免费测试怎么试：天卡与月卡的先后顺序](articles/basics/dailiip-wu-mianfei-ceshi-shishui-shunxu-2026.md) | 试水三步、可跳过的情形与周期选择的隐性成本 | https://youxiangyunip.socks5ip.com.cn/shishui/ |
+| [同样是几个区：价格相近却差在用途](articles/basics/dailiip-tongjia-butonghuo-fenqu-xuanxing-2026.md) | 线路性质/带宽上限/适用业务三项与下单前必确认三件事 | https://canghai.socks5ip.com.cn/xuanqu/ |
+| [电脑端、安卓端与 Socks5 端该怎么选](articles/basics/dailiip-sanduan-jieru-fangshi-xuanze-2026.md) | 三种接法的控制范围、按设备数量选型与冲突排查 | https://baizhaowang-ip.socks5ip.com.cn/duan |
 
 ## 平台横向对比（7）
 
@@ -233,3 +239,4 @@
 - 2026-10-05（晚 · 主站新文对齐）：**滚动期指南 5 篇**（一台电脑同时挂几条线路的三个上限·系统代理位/并行单位/平台额度取最小／「优享入口」三扇同名门的辨析与十条线索的定位法／优众IP 五档的协议先行选档与每兆成本拆解／海外代理IP 按「国家 + 层级」两步筛与四家海外平台分工／IM 多账号的五个触发点自查与号码国别对照）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **267 篇（指南 189）**
 - 2026-10-06（晚 · 主站新文对齐）：**滚动期指南 5 篇**（换了代理 IP 后本机地址仍被看到的三个漏口·解析/UDP/IPv6 的判据与堵法／酷熊IP 的三条前置规则与五类需求对口判断／酷熊两个后台的域名分野与六种登不上的处理方向／酷熊邀请码的 promoteCode 位置与默认绑定风险／光子IP 协议跟着套餐走的四档拆分与口径不一致的处理）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **272 篇（指南 194）**
 - 2026-10-07（晚 · 主站新文对齐）：**滚动期指南 5 篇**（代理IP 突然连不上的三层分流·本机临时端口/TIME_WAIT/文件描述符三处口径与四个报错对号／长城IP 登录入口只有一个子域能通·两个登录 Tab 与四张预置弹窗／长城IP 邀请码只读显示·链接参数与客服报单格式分属两个系统／酷熊IP 同类平台的按货型对齐三问筛选法与切换额度隐性成本／代理平台金币、积分与 SK5／L2TP 两套余额的三层读法）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **277 篇（指南 199）**
+- 2026-10-08（第五批 · 外站线扩至 24 个子站 / 23 个品牌）：**「基础科普与工具教程」扩至 26 篇**（新增：金币计价的单位换算 / 出口落点核验流程 / 四类设备参数对照 / 没有免费测试时的试水顺序 / 同价不同货的分区取舍 / 电脑端·安卓端·Socks5 三端怎么选），`canonical` 分别指向**6 个子站原文**（JiuIP / 酷熊IP / ST加速器 / 优享云IP / 沧海IP / 百兆王IP）→ 内容仓累计 **283 篇**
