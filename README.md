@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 283 篇**（注册 23 + 工具 6 + 指南 199 + 基础科普 26 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 288 篇**（注册 23 + 工具 6 + 指南 204 + 基础科普 26 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（199）
+## 选型与实战指南（204）
 
 | 分类 | 文章 |
 |---|---|
@@ -104,6 +104,7 @@
 | 主站新文对齐（10/5） | [一台电脑挂几条线路·真正的上限是三个数里最小的那个](articles/guides/dailiip-yitai-diannao-bingxing-xianlu-sange-shangxian-2026.md) ｜ [「优享」这两个字底下有三扇同名的门](articles/guides/youxiangyunip-rukou-sanshan-tongming-men-2026.md) ｜ [优众IP 选档：先定协议，再定带宽](articles/guides/youzhongip-xuandang-xieyi-xianhou-2026.md) ｜ [海外代理IP 按国家挑之前，先看节点分几层](articles/guides/haiwaiip-guojia-cengji-xuanxian-2026.md) ｜ [IM 多号被限制·先查出口这三处](articles/guides/whatsapp-telegram-duozhanghao-chukou-geli-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/6） | [换了代理 IP，本机地址为什么还会被看到·三条通道自查](articles/guides/dailiip-zhenshi-dizhi-baolu-santiao-tongdao-2026.md) ｜ [酷熊IP 贵在哪·三件能自己核的事](articles/guides/kuxiongip-duibukou-san-jian-zihe-shi-2026.md) ｜ [酷熊两个后台·账号为什么互不相通](articles/guides/kuxiongip-shuang-denglukou-paicha-2026.md) ｜ [酷熊的邀请码藏在哪里](articles/guides/kuxiongip-yaoqingma-promotecode-wei-zhi-2026.md) ｜ [光子IP 的协议为什么跟着套餐走](articles/guides/guangziip-xieyi-gen-taocan-zou-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/7） | [连不上先量本机端口水位·三层分流与四个报错对号](articles/guides/dailiip-benji-duankou-yongjin-paicha-2026.md) ｜ [长城IP 登录入口·只有一个域名能通](articles/guides/changchengip-denglu-rukou-zhiyu-paicha-2026.md) ｜ [长城IP 邀请码为什么不让你手填](articles/guides/changchengip-yaoqingma-zhidu-xianshi-2026.md) ｜ [酷熊IP 和谁才算同类·按货型对齐再比价](articles/guides/kuxiongip-tonglei-pingtai-huoxing-duiqi-2026.md) ｜ [金币、积分与两套余额怎么读](articles/guides/dailiip-jinbi-jifen-liangtao-yue-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
+| 主站新文对齐（10/8） | [静态与动态混用·分组怎么建才不烧额度](articles/guides/dailiip-jingtai-dongtai-hunyong-fenzu-guanli-2026.md) ｜ [NekoBox 电脑端·两条全局接管路线](articles/guides/nekobox-diannaoduanwindows-liangtiao-quanju-2026.md) ｜ [NekoBox 单窗口单IP 的粒度边界](articles/guides/nekobox-danchuangkou-danip-jiexian-zai-yiceng-2026.md) ｜ [长城IP 5 元档与客服报单流程](articles/guides/changchengip-5yuan-dang-baodan-liucheng-2026.md) ｜ [SSTap 支持 L2TP 吗·三条替代路线](articles/guides/sstap-l2tp-zhichi-ma-tidai-luxian-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 
 ## 基础科普与工具教程（26）
 
@@ -240,3 +241,4 @@
 - 2026-10-06（晚 · 主站新文对齐）：**滚动期指南 5 篇**（换了代理 IP 后本机地址仍被看到的三个漏口·解析/UDP/IPv6 的判据与堵法／酷熊IP 的三条前置规则与五类需求对口判断／酷熊两个后台的域名分野与六种登不上的处理方向／酷熊邀请码的 promoteCode 位置与默认绑定风险／光子IP 协议跟着套餐走的四档拆分与口径不一致的处理）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **272 篇（指南 194）**
 - 2026-10-07（晚 · 主站新文对齐）：**滚动期指南 5 篇**（代理IP 突然连不上的三层分流·本机临时端口/TIME_WAIT/文件描述符三处口径与四个报错对号／长城IP 登录入口只有一个子域能通·两个登录 Tab 与四张预置弹窗／长城IP 邀请码只读显示·链接参数与客服报单格式分属两个系统／酷熊IP 同类平台的按货型对齐三问筛选法与切换额度隐性成本／代理平台金币、积分与 SK5／L2TP 两套余额的三层读法）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **277 篇（指南 199）**
 - 2026-10-08（第五批 · 外站线扩至 24 个子站 / 23 个品牌）：**「基础科普与工具教程」扩至 26 篇**（新增：金币计价的单位换算 / 出口落点核验流程 / 四类设备参数对照 / 没有免费测试时的试水顺序 / 同价不同货的分区取舍 / 电脑端·安卓端·Socks5 三端怎么选），`canonical` 分别指向**6 个子站原文**（JiuIP / 酷熊IP / ST加速器 / 优享云IP / 沧海IP / 百兆王IP）→ 内容仓累计 **283 篇**
+- 2026-10-08（晚 · 主站新文对齐）：**滚动期指南 5 篇**（静态与动态混用的三层边界·两套计费口径与天卡月卡平衡点·奔富与百兆王的后台分组建法／NekoBox 电脑端的两个同名项目与系统代理、虚拟网卡两条接管路线／NekoBox 单窗口单IP 的粒度边界与电脑端三类替代工具／长城IP 5 元档的禁用视频边界·报单六字段与 SSTP 协议口径／SSTap 不支持 L2TP 的两类协议分野与系统拨号、软路由、换客户端三条替代路线）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **288 篇（指南 204）**
