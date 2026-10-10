@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 317 篇**（注册 23 + 工具 6 + 指南 209 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 324 篇**（注册 23 + 工具 6 + 指南 216 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（209）
+## 选型与实战指南（216）
 
 | 分类 | 文章 |
 |---|---|
@@ -106,6 +106,7 @@
 | 主站新文对齐（10/7） | [连不上先量本机端口水位·三层分流与四个报错对号](articles/guides/dailiip-benji-duankou-yongjin-paicha-2026.md) ｜ [长城IP 登录入口·只有一个域名能通](articles/guides/changchengip-denglu-rukou-zhiyu-paicha-2026.md) ｜ [长城IP 邀请码为什么不让你手填](articles/guides/changchengip-yaoqingma-zhidu-xianshi-2026.md) ｜ [酷熊IP 和谁才算同类·按货型对齐再比价](articles/guides/kuxiongip-tonglei-pingtai-huoxing-duiqi-2026.md) ｜ [金币、积分与两套余额怎么读](articles/guides/dailiip-jinbi-jifen-liangtao-yue-koujing-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/8） | [静态与动态混用·分组怎么建才不烧额度](articles/guides/dailiip-jingtai-dongtai-hunyong-fenzu-guanli-2026.md) ｜ [NekoBox 电脑端·两条全局接管路线](articles/guides/nekobox-diannaoduanwindows-liangtiao-quanju-2026.md) ｜ [NekoBox 单窗口单IP 的粒度边界](articles/guides/nekobox-danchuangkou-danip-jiexian-zai-yiceng-2026.md) ｜ [长城IP 5 元档与客服报单流程](articles/guides/changchengip-5yuan-dang-baodan-liucheng-2026.md) ｜ [SSTap 支持 L2TP 吗·三条替代路线](articles/guides/sstap-l2tp-zhichi-ma-tidai-luxian-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/9） | [手机热点·随身WiFi·物联卡与出口分配](articles/guides/redian-suishenwifi-wulianka-chukou-fenpei-2026.md) ｜ [优享云接软路由·两张拨号列表选栏排错](articles/guides/youxiangyun-ruanluyou-bodhaoliebiao-xuanlan-2026.md) ｜ [蛟龙那套 API·本机端口五条控制指令](articles/guides/jiaolongip-api-bendikongzhikou-wutiao-zhiling-2026.md) ｜ [蛟龙IP 多账号·四层预算与规模临界点](articles/guides/jiaolongip-duozhanghao-fangguanglian-siceng-yusuan-2026.md) ｜ [出口变了·回收/超时/抖动三路分流](articles/guides/dailiip-chukou-bianhua-huoshou-chaoshi-doudong-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
+| 主站新文对齐（10/10） | [多线路冗余·主备/轮询/分流三种接法](articles/guides/dailiip-duoxianlu-rongyu-zhubei-lunxun-fenliu-2026.md) ｜ [蛟龙IP 卖的是线路不是软件](articles/guides/jiaolongip-shi-shenme-xianlu-pingzheng-2026.md) ｜ [NekoBox 上手·五个环节各留验收信号](articles/guides/nekobox-xinshou-wubu-peitong-yanshou-2026.md) ｜ [NekoBox 是什么·一个名字三端三种东西](articles/guides/nekobox-shi-shenme-anzhuo-tongyong-kehuduan-2026.md) ｜ [多跳代理·跳数/落地/认证三项代价](articles/guides/duotiao-daili-daililian-tiaoshu-luodi-renzheng-2026.md) ｜ [大白加速器安卓版·SK5 导入与出口核对](articles/guides/dabai-jiasuqi-anzhuo-sk5-daoru-jiance-2026.md) ｜ [沧海IP 客户端上线·三端入口与九项能力](articles/guides/canghaiip-kehuduan-shuangduan-jiugongneng-2026.md) ｜ *当天候选 7 条全部入仓、积压 0，候选取尽即止共 7 篇* |
 
 ## 基础科普与工具教程（50）
 
@@ -269,3 +270,4 @@
 - 2026-10-08（晚 · 主站新文对齐）：**滚动期指南 5 篇**（静态与动态混用的三层边界·两套计费口径与天卡月卡平衡点·奔富与百兆王的后台分组建法／NekoBox 电脑端的两个同名项目与系统代理、虚拟网卡两条接管路线／NekoBox 单窗口单IP 的粒度边界与电脑端三类替代工具／长城IP 5 元档的禁用视频边界·报单六字段与 SSTP 协议口径／SSTap 不支持 L2TP 的两类协议分野与系统拨号、软路由、换客户端三条替代路线）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **288 篇（指南 204）**
 - 2026-10-09（第六批 · 外站线扩至 48 个子站）：**「基础科普与工具教程」扩至 50 篇（一次新增 24 篇）**（延迟三段定位／规格三数字／客户端下载来源核对／波动折算日损失／海外三条合规边界／五档选型／切换次数倒推／A–H 原价折后对照／换设备迁移／标称带宽实测／按条与按台／轮换三误区／线路提取／地区分组／带宽口径／周期折算／视频档大带宽／住宅纯净度／线路质量三项／四档版本／同价两档／流量额度／静态动态／可用率口径），`canonical` 分别指向**24 个子站原文** → 内容仓累计 **312 篇**
 - 2026-10-09（晚 · 主站新文对齐）：**滚动期指南 5 篇**（手机热点/随身WiFi/物联卡的出口归属与按「独立出口数」算成本／优享云接软路由的两张拨号列表选栏排错与三类系统入口差异／蛟龙那套 API 的本机控制口五条指令与返回码读法／蛟龙IP 多账号的四层预算与 5/10/30/50 条成本区间／出口变化的回收·超时·抖动三路分流与切换额度单位陷阱）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **317 篇（指南 209）**
+- 2026-10-10（晚 · 主站新文对齐）：**滚动期指南 7 篇**（代理IP 多线路冗余的主备/轮询/分流三种接法·两前提与可用率连乘／蛟龙IP 卖线路不卖软件的交付形态·两条协议线互不通用与两张价目表／NekoBox 上手的五个环节与各自的验收信号·卡住时四条排查线／NekoBox 一个名字在三端指向三种东西·sing-box 内核划定的能力边界／多跳代理的跳数·落地·认证三个变量·每多一跳的往返与可用率代价／大白加速器安卓版的 SK5 节点批量导入·检测筛除与出口核对／沧海IP 客户端上线的三端入口与九项能力·客户端管连通站内工具管归属）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 7 篇全部入仓，按「取尽即止」产出 7 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **324 篇（指南 216）**
