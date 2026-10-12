@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 23 家｜文章 332 篇**（注册 23 + 工具 6 + 指南 224 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 23 家｜文章 338 篇**（注册 23 + 工具 6 + 指南 230 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 
@@ -57,7 +57,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（224）
+## 选型与实战指南（230）
 
 | 分类 | 文章 |
 |---|---|
@@ -108,6 +108,7 @@
 | 主站新文对齐（10/9） | [手机热点·随身WiFi·物联卡与出口分配](articles/guides/redian-suishenwifi-wulianka-chukou-fenpei-2026.md) ｜ [优享云接软路由·两张拨号列表选栏排错](articles/guides/youxiangyun-ruanluyou-bodhaoliebiao-xuanlan-2026.md) ｜ [蛟龙那套 API·本机端口五条控制指令](articles/guides/jiaolongip-api-bendikongzhikou-wutiao-zhiling-2026.md) ｜ [蛟龙IP 多账号·四层预算与规模临界点](articles/guides/jiaolongip-duozhanghao-fangguanglian-siceng-yusuan-2026.md) ｜ [出口变了·回收/超时/抖动三路分流](articles/guides/dailiip-chukou-bianhua-huoshou-chaoshi-doudong-2026.md) ｜ *当天候选 5 条全部入仓、积压 0，候选取尽即止共 5 篇* |
 | 主站新文对齐（10/10） | [多线路冗余·主备/轮询/分流三种接法](articles/guides/dailiip-duoxianlu-rongyu-zhubei-lunxun-fenliu-2026.md) ｜ [蛟龙IP 卖的是线路不是软件](articles/guides/jiaolongip-shi-shenme-xianlu-pingzheng-2026.md) ｜ [NekoBox 上手·五个环节各留验收信号](articles/guides/nekobox-xinshou-wubu-peitong-yanshou-2026.md) ｜ [NekoBox 是什么·一个名字三端三种东西](articles/guides/nekobox-shi-shenme-anzhuo-tongyong-kehuduan-2026.md) ｜ [多跳代理·跳数/落地/认证三项代价](articles/guides/duotiao-daili-daililian-tiaoshu-luodi-renzheng-2026.md) ｜ [大白加速器安卓版·SK5 导入与出口核对](articles/guides/dabai-jiasuqi-anzhuo-sk5-daoru-jiance-2026.md) ｜ [沧海IP 客户端上线·三端入口与九项能力](articles/guides/canghaiip-kehuduan-shuangduan-jiugongneng-2026.md) ｜ *当天候选 7 条全部入仓、积压 0，候选取尽即止共 7 篇* |
 | 主站新文对齐（10/11） | [大白加速器连不上·五段链路挨个对号](articles/guides/dabai-jiasuqi-lianbushang-wuceng-dingwei-2026.md) ｜ [SK5 节点的三种形态与三个客户端](articles/guides/sk5-jiedian-xingtai-kehuduan-xuanxing-2026.md) ｜ [代理IP 可用率口径·99.9% 怎么读](articles/guides/dailiip-keyonglv-koujing-zicha-2026.md) ｜ [蛟龙IP 带宽档位从并发数倒推](articles/guides/jiaolongip-daikuan-bingfashu-xuandang-2026.md) ｜ [蛟龙IP 同价位五家横评](articles/guides/jiaolongip-pingti-tongjiawei-hengping-2026.md) ｜ [大白加速器支持哪些设备·三条替代路](articles/guides/dabai-jiasuqi-shebei-menkan-tidai-2026.md) ｜ [云手机多开·出口与指纹是两条线](articles/guides/yunshouji-duokai-chukou-zhiwen-liangtiaoxian-2026.md) ｜ [大白加速器不是游戏加速器](articles/guides/dabai-jiasuqi-mingcheng-wuqu-jiasu-2026.md) ｜ *当天候选 9 条，入仓 8 篇、积压 0；余 1 条（糖果IP 是什么）与仓内「糖果六档差价」同题，留待次日优先入仓* |
+| 主站新文对齐（10/12） | [糖果IP 是平台还是软件·两条协议线](articles/guides/tangguoip-shi-pingtai-haishi-ruanjian-2026.md) ｜ [云手机能顶真机吗·应用层与物理层](articles/guides/yunshouji-nengti-zhenji-ma-yingyongceng-wuliceng-2026.md) ｜ [糖果IP 纯净度·池子类型是另一条轴](articles/guides/tangguoip-chunjingdu-chizi-chixian-liangtiaozhou-2026.md) ｜ [糖果IP 带宽·一条 10M 还是两条 6M](articles/guides/tangguoip-daikuan-bingfa-maifa-linjiedian-2026.md) ｜ [糖果IP 新手五步·凭据段数在哪定](articles/guides/tangguoip-xinshou-wubu-jiezhi-jiduanshu-2026.md) ｜ [手机 IP 与 WiFi IP·三层地址谁在最外](articles/guides/shouji-san-ge-ip-wifi-daili-shudi-bubian-2026.md) ｜ *当天主站新文 5 篇 + 积压 1 条（10/11 糖果IP 是什么）全部入仓；窗口内未入仓 0 条* |
 
 ## 基础科普与工具教程（50）
 
@@ -273,3 +274,4 @@
 - 2026-10-09（晚 · 主站新文对齐）：**滚动期指南 5 篇**（手机热点/随身WiFi/物联卡的出口归属与按「独立出口数」算成本／优享云接软路由的两张拨号列表选栏排错与三类系统入口差异／蛟龙那套 API 的本机控制口五条指令与返回码读法／蛟龙IP 多账号的四层预算与 5/10/30/50 条成本区间／出口变化的回收·超时·抖动三路分流与切换额度单位陷阱）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 5 篇全部入仓，按「取尽即止」产出 5 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **317 篇（指南 209）**
 - 2026-10-10（晚 · 主站新文对齐）：**滚动期指南 7 篇**（代理IP 多线路冗余的主备/轮询/分流三种接法·两前提与可用率连乘／蛟龙IP 卖线路不卖软件的交付形态·两条协议线互不通用与两张价目表／NekoBox 上手的五个环节与各自的验收信号·卡住时四条排查线／NekoBox 一个名字在三端指向三种东西·sing-box 内核划定的能力边界／多跳代理的跳数·落地·认证三个变量·每多一跳的往返与可用率代价／大白加速器安卓版的 SK5 节点批量导入·检测筛除与出口核对／沧海IP 客户端上线的三端入口与九项能力·客户端管连通站内工具管归属）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 7 篇全部入仓，按「取尽即止」产出 7 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮维持 0），内容仓累计 **324 篇（指南 216）**
 - 2026-10-11（晚 · 主站新文对齐）：**滚动期指南 8 篇**（大白加速器连不上的五段链路定位·表现归类与速查卡／SK5 节点三种导出形态与三个客户端的分工·形态对不上就是选错人／代理IP 可用率的三个分母与 99.9% 折算成一个月多少分钟·记 N 测 M 自测口径／蛟龙IP 带宽档位从同屏并发数倒推·10 元两种买法与四组配置的月账单／蛟龙IP 同价位 2～8 元带五家横评·差价来自结算折扣而非线路质量／大白加速器的系统版本门槛与 iOS、桌面、老安卓三条替代路／云手机多开的出口 IP 与设备指纹两条线·三种接法与 20 台规模月成本／「加速器」名实之辨·大白加速器换的是出口不是延迟）→ 配额 8 篇/天（A371），本次候选窗口内**积压 0 条**（9/27 起连续清零），当天主站新文 9 篇、入仓 8 篇（余 1 条「糖果IP 是什么」与仓内「糖果六档差价」同题，按避免同质处理、留待次日优先入仓）；**窗口内未入仓 1 条**（发布日 2026-10-11），9/24 基线 7 条 → 本轮维持低位，内容仓累计 **332 篇（指南 224）**
+- 2026-10-12（晚 · 主站新文对齐）：**滚动期指南 6 篇**（糖果IP 是平台不是软件·两条协议线的接管层级与选型顺序／云手机能不能顶真机的两层证据·应用层能跑物理层补不回来·四步验货／糖果IP 纯净度看池子类型不看价格档·三类池子的 ASN 归属与家宽挂机悖论／糖果IP 带宽从单窗口稳态流量倒推·一条 10M 与两条 6M 的临界点／糖果IP 新手五步链·凭据四段还是三段由协议栏定·四个卡点排查顺序／手机 IP 与 WiFi IP 三层地址谁在最外·属地没变的四条路）→ 配额 8 篇/天（A371），**候选取尽即止**（当天候选 6 条 < 配额，按实际条数产出、未凑数）；**积压 1 条已清**（10/11「糖果IP 是什么」，排本批第 1 篇优先入仓）；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮归零），内容仓累计 **338 篇（指南 230）**
