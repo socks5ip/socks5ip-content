@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03",
+ "updated": "2026-10-15",
  "platforms": [
   {
    "name": "无双海外IP",
@@ -40,6 +40,16 @@
    "proto": "SOCKS5 / L2TP / HTTP",
    "feature": "100% 独享海外 IP，覆盖 180+ 国家，最高 500M 大带宽",
    "canonical": "https://socks5ip.com.cn/crown/"
+  },
+  {
+   "name": "纵游IP",
+   "slug": "zongyouip",
+   "url": "https://zunoip.com/login/register?p=adminA1",
+   "invite": "adminA1",
+   "price": "2 元/天起",
+   "proto": "SOCKS5 / HTTP",
+   "feature": "静态长效住宅 IP，160+ 国家 / 2000+ 在线节点，短中长期档位齐全",
+   "canonical": "https://socks5ip.com.cn/guowaiip/zongyouip/"
   },
   {
    "name": "奔富IP",
