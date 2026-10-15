@@ -5,6 +5,7 @@
 > **收录平台 24 家｜文章 347 篇**（注册 24 + 工具 6 + 指南 238 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
+> 价格数据集（24 家 · CC0-1.0 · DOI · 可学术引用）：https://doi.org/10.5281/zenodo.22801591
 
 ## 注册入口指南（24 家）
 
