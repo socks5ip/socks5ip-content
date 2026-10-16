@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 24 家｜文章 363 篇**（注册 24 + 工具 6 + 指南 254 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 24 家｜文章 370 篇**（注册 24 + 工具 6 + 指南 261 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 > 价格数据集（24 家 · CC0-1.0 · DOI · 可学术引用）：https://doi.org/10.5281/zenodo.22801591
@@ -59,7 +59,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（254）
+## 选型与实战指南（261）
 
 | 分类 | 文章 |
 |---|---|
@@ -115,6 +115,7 @@
 
 | 主站新文对齐（10/14） | [安卓系统直连 L2TP·不装软件三步设置](articles/guides/android-l2tp-zhilian-sanbu-2026.md) ｜ [有米配好了却不干活·先查进程捕获那一列](articles/guides/youmi-peihao-bugongzuo-buhuo-zhuangtai-2026.md) ｜ [纵游IP 邀请码写在链接里·注册后核一遍](articles/guides/zongyouip-yaoqingma-shengxiao-heren-2026.md) ｜ [老鱼安卓版五类问题排开·不到一半出在软件上](articles/guides/laoyu-android-wulei-wenti-paidui-2026.md) ｜ [服务器多开·机房段与住宅段按动作分工](articles/guides/fuwuqi-duokai-jifang-zhuzhai-dongzuo-fengong-2026.md) ｜ [优享云接电商多店铺·天卡续满 30 天要 60 元](articles/guides/youxiangyun-dianshang-duodianpu-chengben-2026.md) ｜ [优享云的「静态」常被当成不能换](articles/guides/youxiangyun-jingtai-sk5-shi-shenme-2026.md) ｜ [代理IP 账号能不能几个人共用](articles/guides/dailiip-zhanghao-duoren-gongyong-edu-2026.md) ｜ *本批 8 篇于 10/15 补推（10/14 当日推送环节未完成）；积压 0 条* |
 | 主站新文对齐（10/15） | [老鱼安卓版要不要换·先算迁移那笔账](articles/guides/laoyu-android-huan-kehuduan-qianyi-chengben-2026.md) ｜ [Postern 是什么·它在链路里只占第三段](articles/guides/postern-shi-shenme-lianlu-disanduan-2026.md) ｜ [Postern 配置六步·每一步留一道验收](articles/guides/postern-peizhi-liubu-yanshou-2026.md) ｜ [多平台账号怎么统一管理·四张表收拢](articles/guides/duopingtai-zhanghao-guanli-qingdan-sibiao-2026.md) ｜ [优享云纯净度·先分清混合资源池这一层](articles/guides/youxiangyun-chunjingdu-hunhe-chiyuanchi-2026.md) ｜ [优享云新手上手·五步各留一道验收](articles/guides/youxiangyun-xinshou-wubu-yanshou-tuihui-2026.md) ｜ [优享云售后找谁·两层客服各管什么](articles/guides/youxiangyun-shouhou-liangceng-kefu-guishu-2026.md) ｜ [数据采集用什么IP·出口额度带宽怎么配平](articles/guides/shuju-caiji-pinlv-bingfa-peiping-2026.md) ｜ *当天候选 8 条（积压 3 + 新文 5）全部入仓；积压 3 条（10/13 老鱼安卓版对比、10/14 Postern 两篇）已清，窗口内未入仓 0 条* |
+| 主站新文对齐（10/16） | [代理IP 长连接被掐断·四处计时器谁先到点](articles/guides/dailiip-changlianjie-shichu-jishiqi-2026.md) ｜ [百兆王 带宽和并发是两笔账·窗口数定条数](articles/guides/baizhaowang-daikuan-bingfa-liangbizhang-2026.md) ｜ [百兆王 纯净度分两层·7元买独享 10元买住宅出身](articles/guides/baizhaowang-chunjingdu-dushi-zhuzhai-2026.md) ｜ [百兆王是什么·双端客户端＋可导出 SK5 的后台](articles/guides/baizhaowang-shi-shenme-shuangduan-xingtai-2026.md) ｜ [代理IP 跑不满速·四段限速与指纹对照](articles/guides/dailiip-paobumansu-siduan-xiansu-2026.md) ｜ [电脑直连 L2TP·走系统还是装客户端](articles/guides/windows-l2tp-xitong-vs-kehuduan-2026.md) ｜ [Postern 报错怎么排·按现象分诊五层顺序](articles/guides/postern-baocuo-fenzhen-wuceng-paicha-2026.md) ｜ *当天候选 7 条（积压 2 + 新文 5）全部入仓；积压 2 条（10/15 的 Postern 报错、电脑直连 L2TP）已清；窗口内未入仓 0 条* |
 ## 基础科普与工具教程（50）
 
 基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP、JiuIP、酷熊IP、ST加速器、优享云IP、皇冠海外IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
@@ -284,3 +285,4 @@
 - 2026-10-15：**注册入口补入纵游IP**（第 24 家 · 新增 `articles/register/zongyouip.md` · `data/platforms.json` 同步）→ 与主站数据集 24 家口径对齐
 - 2026-10-14（晚 · 主站新文对齐）：**滚动期指南 8 篇**（安卓系统自带 L2TP 三步设置／有米配好却不干活·先查进程捕获那一列／纵游IP 邀请码写在链接参数里·注册后核一遍／老鱼安卓版五类问题排开·不到一半出在软件上／服务器多开·机房段与住宅段按动作分工／优享云接电商多店铺·天卡续满 30 天要 60 元／优享云的「静态」常被当成不能换／代理IP 账号能不能几个人共用）→ 配额 8 篇/天（A371）；**本批因当日推送环节未完成，于 10/15 与当日批次一并发仓**；内容仓累计 **355 篇（指南 246）**
 - 2026-10-15（晚 · 主站新文对齐）：**滚动期指南 8 篇**（老鱼安卓版要不要换·先算迁移那笔账／Postern 是什么·它在链路里只占第三段／Postern 配置六步·每一步留一道验收／多平台账号怎么统一管理·四张表收拢／优享云纯净度·先分清混合资源池这一层／优享云新手上路五步各留一道验收／优享云售后找谁·两层客服各管什么／数据采集用什么IP·出口额度带宽怎么配平）→ 配额 8 篇/天（A371），**积压 3 条**（10/13 老鱼安卓版对比、10/14 Postern 两篇）**全部排在前位清空**，当天新文 5 篇补齐到 8 篇、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮归零），内容仓累计 **363 篇（指南 254）**
+- 2026-10-16（晚 · 主站新文对齐）：**滚动期指南 7 篇**（代理IP 长连接被掐断的四处计时器·症状对照与保活写法／百兆王带宽与并发两笔账·窗口数定条数、下载量定带宽／百兆王纯净度两层·7 元买独享、10 元买住宅出身·三项自测／百兆王是什么·双端客户端加可导出 SK5 的后台／代理IP 跑不满速的四段限速与指纹对照·换算除数是 8／电脑直连 L2TP 走系统还是装客户端·按「要接管谁」选／Postern 报错按现象分诊·线路→参数→客户端三层顺序）→ 配额 8 篇/天（A371），**积压 2 条**（10/15 的 Postern 报错、电脑直连 L2TP）**排在前位清空**；当天候选共 7 条按「取尽即止」产出、未凑数；**窗口内未入仓 0 条**（9/24 基线 7 条 → 本轮归零），内容仓累计 **370 篇（指南 261）**
