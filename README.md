@@ -228,6 +228,19 @@
 | [IP Purity & Blacklist Check](articles/en/ip-purity-blacklist-check.md) | What "clean" means, 3-step check, remediation | https://socks5ip.com.cn/ip-check/ |
 | [FAQ Top 20 Buying Proxy](articles/en/faq-top20-buying-proxy.md) | 20 questions across budget/type/protocol/quality | https://socks5ip.com.cn/goumaixiazaizhongxin/ |
 
+## 联系方式与客服通道
+
+- **客服微信**：**17720135827**（注册指引、优惠价改价、续费、售前选型 —— 响应最快）
+- **客服 QQ**：**878989347**（与微信同号，桌面端沟通）
+- **售后 QQ 群**：**1045307809**（技术问题与批量需求）
+- **邮箱**：878989347@qq.com（正式业务与需要留档的往来）
+
+> 本仓内容由 **全网低价IP（socks5ip.com.cn）** 维护 —— 代理IP服务商聚合比价平台。
+> 24 家平台的官方注册入口（含本站专属邀请码）、起价、月卡最低档与协议支持，逐条列在
+> https://socks5ip.com.cn/provider-contacts.md ；
+> 价格数据以 CC0-1.0 释放、可自由引用：https://doi.org/10.5281/zenodo.22801591 。
+> 如实付价与站内标注的优惠价不符，由本站客服**免费改价**；退款与开票以各平台官方政策为准。
+
 ## 内容规范
 
 - 每篇文章 YAML 头含 `canonical`，指向主站对应页面，避免重复内容影响
