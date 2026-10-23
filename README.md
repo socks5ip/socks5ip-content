@@ -2,7 +2,7 @@
 
 代理 IP 平台**官方注册入口指南**（含邀请码）+ 主站**自研免费工具**推荐 + **选型/FAQ/对比/英文**知识库。内容由 [全网低价IP](https://socks5ip.com.cn) 整理维护，**每篇均标注 canonical 指向主站原文**，本仓库为摘要式内容分发，不收录全文。
 
-> **收录平台 24 家｜文章 412 篇**（注册 24 + 工具 6 + 指南 303 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
+> **收录平台 24 家｜文章 420 篇**（注册 24 + 工具 6 + 指南 311 + 基础科普 50 + 对比 7 + FAQ 12 + 英文 10，持续扩充中）
 
 > 主站：https://socks5ip.com.cn ｜ 聚合注册中心：https://linkdd.cn/socks5ip ｜ 导航站：https://socks5ip.github.io
 > 价格数据集（24 家 · CC0-1.0 · DOI · 可学术引用）：https://doi.org/10.5281/zenodo.22801591
@@ -59,7 +59,7 @@
 | [业务场景模拟检测](articles/tools/business-check.md) | 六场景适配评分/运营建议 | https://socks5ip.com.cn/business-check/ |
 | [价格中心](articles/tools/jiagezhongxin.md) | 20+ 平台一站式比价 | https://socks5ip.com.cn/jiagezhongxin/ |
 
-## 选型与实战指南（303）
+## 选型与实战指南（311）
 
 | 分类 | 文章 |
 |---|---|
@@ -122,6 +122,7 @@
 | 主站新文对齐（10/20） | [奔富IP 买 8 条还是 2 条·窗口数与带宽的组合测算](articles/guides/benfuip-chuangkou-tiaoshu-zuhe-cesuan-2026.md) ｜ [奔富IP 免费测试验什么·三项属性的合格线](articles/guides/benfuip-mianfei-ceshi-yanzhen-panjuti-2026.md) ｜ [沧海IP OpenWrt 配 L2TP·五个卡点逐个拆](articles/guides/canghaiip-openwrt-l2tp-wuge-kadian-2026.md) ｜ [皇冠做电商多店铺·四个出口它管得着两个](articles/guides/crown-dianpu-sige-chukou-fenceng-2026.md) ｜ [皇冠是什么·六个产品名是六种付钱方式](articles/guides/crown-liuge-chanpin-jifei-weidu-2026.md) ｜ [皇冠带宽够不够·500M 在机房那头](articles/guides/crown-daikuan-bingfa-rtt-linjiedian-2026.md) ｜ [代理IP 换到美国·时区语言时钟这三处](articles/guides/dailiip-shiqu-yuyan-shizhong-sanzhi-2026.md) ｜ *当天候选 7 条（积压 2 + 新文 5）全部入仓；积压 2 条（10/19 奔富两篇）已清，窗口内未入仓 0 条* |
 | 主站新文对齐（10/21） | [晚高峰升档还是错峰·三条根因各自能不能用钱补](articles/guides/dailiip-wangaofeng-shengdang-haishi-cuofeng-2026.md) ｜ [奔富IP 价目表外的三笔钱·补单、年付折损、第二台设备](articles/guides/benfuip-jiawai-zhichu-sanbi-2026.md) ｜ [烽迅 756 个项目里电商只对上 5 个](articles/guides/fengxunip-dianshang-xiangmu-chi-xuanze-2026.md) ｜ [烽迅做多账号的三层责任·出口、环境、行为](articles/guides/fengxunip-duozhanghao-chukou-sanceng-2026.md) ｜ [皇冠平价替代只有两家·5 元与 7.5 元同出一个上游](articles/guides/crown-pingti-fangan-liangjia-2026.md) |
 | 主站新文对齐（10/22） | [光梭加速器的账单怎么核·条/月/协议三个字段](articles/guides/guangsuoip-jijia-danwei-zhangdan-hedui-2026.md) ｜ [光梭 5 条免费测试额度够不够·能否决的三类结论](articles/guides/guangsuoip-mianfei-ceshi-foujuefa-2026.md) ｜ [IP 体检报告六项判读顺序·7 分与「谨慎」同时出现](articles/guides/ip-tijian-liuxiang-pandu-shunxu-2026.md) ｜ [代理上 ping 出 30% 丢包·四种假信号与三段定位](articles/guides/diubao-sizhong-jiaxintiao-paicha-2026.md) ｜ [烽迅批量取号要管几张网址·20 条线路的网址台账](articles/guides/fengxunip-api-wangzhi-taizhang-2026.md) ｜ [烽迅九档价拆成元/M·断点在 10M 之后](articles/guides/fengxunip-jiudang-meizhao-m-danjia-2026.md) ｜ [烽迅新手第一个小时·三道门与三次返工](articles/guides/fengxunip-xinshou-sange-fanhui-2026.md) ｜ [被 Cloudflare 验证页挡住·2×2 对照实验定责](articles/guides/cloudflare-yanzheng-2x2-duizhao-2026.md) ｜ *当天候选 10 条，取 8 条（积压 2 + 新文 6）；12177、12181 经仓内对仓复核为硬同题不产；窗口内未入仓 2 条* |
+| 主站新文对齐（10/23） | [沧海IP 30 元预算在八个区各跑几天](articles/guides/canghaiip-yusuan-fantan-badaqu-2026.md) ｜ [光梭加速器升档白付多少·三笔补付](articles/guides/guangsuoip-shengdang-bufu-sanbi-2026.md) ｜ [光子IP 能按天买的只有五档](articles/guides/guangziip-kaqi-lie-youxian-2026.md) ｜ [烽迅 2.6 元的线路合法吗·三条自证线](articles/guides/fengxunip-hefa-zizheng-sanxian-2026.md) ｜ [55游 一条线路带几个号](articles/guides/55you-yitiao-xian-dai-jigehao-2026.md) ｜ [55游 能开哪类店铺·跨境与国内分界](articles/guides/55you-dianpu-leixing-fenjie-2026.md) ｜ [55游 接软路由·三套系统只有一套原生通](articles/guides/55you-ruanluyou-sanxitong-jiekou-2026.md) ｜ [秒拨IP 便宜在你买的是次数](articles/guides/miaoboip-cishu-jifei-jiegou-2026.md) |
 ## 基础科普与工具教程（50）
 
 基础层内容：讲清代理 IP 背后的机制与配置口径。本分类 `canonical` 指向**子站原文**（沧海IP、奔富IP、光梭IP、天行IP、无双IP、鲸云IP、全球代理IP、55游IP、光子IP、畅游IP、百兆王、CROWN皇冠IP、蛟龙IP、烽讯IP、糖果IP、天机IP、优众IP、极驰云IP、无忧IP、JiuIP、酷熊IP、ST加速器、优享云IP、皇冠海外IP 等品牌子站），与「选型与实战指南」镜像主站原文的口径**分开存放**。
@@ -298,3 +299,4 @@
 - 2026-10-20（晚 · 主站新文对齐）：**滚动期指南 7 篇**（奔富IP 条数与带宽的组合测算·8 窗口两种买法差 2.8 元但出口差 6 个／奔富IP 免费测试的三项合格线·2.6 与 12.8 差 10.2 元落在 IP 类型／沧海IP OpenWrt 配 L2TP 的五个卡点·MTU 与防火墙区最容易漏／皇冠电商多店铺的四个出口·它只覆盖店铺与广告两段／皇冠六个产品名其实是六种计费维度／皇冠 500M 是通道归属不是速率·单流约等于窗口÷RTT／时区语言时钟三处一致性·线路 2.24 元/月起）；积压 2 条清零、窗口内未入仓 0 条 → 内容仓累计 **399 篇（指南 290）**
 - 2026-10-21（晚 · 主站新文对齐）：**滚动期指南 5 篇**（代理IP 晚高峰掉速分三种·速率腰斩能靠升档补、提取排队与返回重复段只能错峰／奔富IP 价目表外还有三笔钱·补单一年多 115 元、年付分界 8.4 期、一条 L2TP 隧道只给一个出口／烽迅项目下拉 756 项里电商对上 5 个·腾讯系 0 项／烽迅做多账号的三层责任·出口层归线路、环境层归浏览器、行为层归流程／皇冠共享 12 元排第三便宜·更便宜的两家注册入口同落 6nn.net 上游）→ **候选 7 条取 5 条**：12181、12177 经仓内对仓复核为硬同题，按「宁缺毋滥」不产
 - 2026-10-22（晚 · 主站新文对齐）：**滚动期指南 8 篇**（光梭加速器的账单怎么核·「元/条/月」三个字段、25 条月成本 56 元、只跑 10 天日成本 0.224 元／光梭 5 条免费测试额度够不够·能连上只验证四项配置、四项测不出、外推三条边界／IP 体检报告的六项判读顺序·场景推荐 > 出身 > 分数、风控值低可能是「没信号」／代理上 ping 出 30% 丢包先排哪种假信号·四种假丢包与三段替代测法、2×2 对照定责／烽迅批量取号的网址台账·订单:网址 1:1、三种失效与自愈、20 条线路三档成本／烽迅九档价拆成元/M·5M→10M 每 M 0.24 元是最便宜一步、10M 后回升到 0.28 元、L2TP 断点在 5M／烽迅新手第一个小时·实名在前充值在后、金币与人民币两种口径、导出拿到的是域名／被 Cloudflare 验证页挡住为什么换十条线都没用·两侧信号与 2×2 实验、记通过率不记单次）；配额 8 篇/天（A371），**积压 2 条**（10/21 的光梭计价单位、光梭免费测试）排在本批第 1–2 位清空；当天候选 10 条取 8 条（取尽即止、未凑数），12177、12181 判硬同题不产 ⇒ **窗口内未入仓 2 条**；内容仓累计 **412 篇（指南 303）**
+- 2026-10-23（晚 · 主站新文对齐）：**滚动期指南 8 篇**（沧海IP 30 元预算在八个区各跑几天·日成本 0.13-1.17 元、二区 217 天对八区 0 天、只有五个区给天卡／光梭加速器升档白付多少·第 10 天升档不退 1.49 元、同 1.5M 协议差 1.76 元、30 天周期一年续 12.17 次／光子IP 能按天买的只有五档·B/G/H 只做月卡、天卡折 30 天是月卡的 3.75 与 9 倍／烽迅 2.6 元线路合法吗·实名条款用途三条自证线、九档价与三条红线／55游 一条线路带几个号·线路×时长两个乘数、10 号月账 150 元与混合 195 元／55游 能开哪类店铺·跨境可用国内店不可用、3-20 店月账与续费三类坑／55游 接软路由·OpenWrt 原生可接、爱快与 ROS 需旁路由、五台设备 20M 分摊／秒拨IP 便宜在买的是次数·三个物理特征、每 40 次换线的 0.0033 元盈亏线）→ 配额 8 篇/天（A371）；**积压 3 条**（10/20 沧海计价单位、10/22 光梭三笔补付与光子七档×三卡期）排在批次前位，另 5 篇当天新文补齐＝8 篇满配额；12181（AI 工具三段出口）经仓内对仓复核仍为硬同题，按「宁缺毋滥」不产 ⇒ 窗口内剩余未入仓 1 条 → 内容仓累计 **420 篇（指南 311）**
