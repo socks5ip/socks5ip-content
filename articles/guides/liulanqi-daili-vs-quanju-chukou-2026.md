@@ -3,7 +3,7 @@ title: "浏览器代理和全局代理差在哪：一份配置只管一半流量
 description: "浏览器代理只管浏览器里走 HTTP/HTTPS 的请求，同一次页面加载里 WebRTC 的 UDP 包不走它；全局代理改的是默认路由，对象是所有程序。含三种落脚点、三类请求去向表、Chrome 与 Firefox 的差异、指纹浏览器按环境存的做法，以及出口/WebRTC/其他程序三个验收动作。"
 date: 2026-11-24
 tags: [浏览器代理, 全局代理, WebRTC, 指纹浏览器, 出口IP]
-canonical: https://socks5ip.com.cn/zuixinzixun/jishuzixun/liulanqidaili-vs-quanju
+canonical: https://socks5ip.com.cn/dailigongju/bitegugeliulanqi/liulanqidaili-vs-quanju/
 ---
 
 # 浏览器代理和全局代理差在哪：一份配置只管一半流量
